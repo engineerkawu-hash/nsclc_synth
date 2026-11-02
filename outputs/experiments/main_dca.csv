@@ -1,0 +1,1441 @@
+rep,model,task,threshold,net_benefit,treat_all
+0,Proposed (missing-aware attention),dcb,0.05,0.25471052631578944,0.26105263157894737
+0,Proposed (missing-aware attention),dcb,0.1,0.21116666666666667,0.21999999999999997
+0,Proposed (missing-aware attention),dcb,0.15,0.1775,0.1741176470588235
+0,Proposed (missing-aware attention),dcb,0.2,0.13437500000000002,0.1225
+0,Proposed (missing-aware attention),dcb,0.25,0.09783333333333331,0.064
+0,Proposed (missing-aware attention),dcb,0.3,0.06742857142857141,-0.002857142857142836
+0,Proposed (missing-aware attention),dcb,0.35,0.047423076923076915,-0.08000000000000007
+0,Proposed (missing-aware attention),dcb,0.4,0.028999999999999998,-0.17000000000000004
+0,Proposed (missing-aware attention),dcb,0.45,0.01581818181818183,-0.2763636363636363
+0,Proposed (missing-aware attention),dcb,0.5,0.0010000000000000009,-0.40399999999999997
+0,Proposed (missing-aware attention),dcb,0.55,-0.009888888888888905,-0.56
+0,Proposed (missing-aware attention),dcb,0.6,-0.020750000000000032,-0.7550000000000003
+0,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+0,Proposed (missing-aware attention),irae_g2,0.1,0.17844444444444446,0.17833333333333334
+0,Proposed (missing-aware attention),irae_g2,0.15,0.13067647058823528,0.12999999999999998
+0,Proposed (missing-aware attention),irae_g2,0.2,0.079125,0.07562500000000003
+0,Proposed (missing-aware attention),irae_g2,0.25,0.02149999999999999,0.013999999999999985
+0,Proposed (missing-aware attention),irae_g2,0.3,-0.025928571428571412,-0.056428571428571495
+0,Proposed (missing-aware attention),irae_g2,0.35,-0.07369230769230775,-0.13769230769230778
+0,Proposed (missing-aware attention),irae_g2,0.4,-0.05916666666666669,-0.23250000000000004
+0,Proposed (missing-aware attention),irae_g2,0.45,-0.01699999999999999,-0.34454545454545454
+0,Proposed (missing-aware attention),irae_g2,0.5,-0.0024999999999999996,-0.47900000000000004
+0,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+0,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+0,LR: all interpretable variables,dcb,0.05,0.2606842105263158,0.26105263157894737
+0,LR: all interpretable variables,dcb,0.1,0.22233333333333333,0.21999999999999997
+0,LR: all interpretable variables,dcb,0.15,0.18326470588235289,0.1741176470588235
+0,LR: all interpretable variables,dcb,0.2,0.143625,0.1225
+0,LR: all interpretable variables,dcb,0.25,0.10766666666666667,0.064
+0,LR: all interpretable variables,dcb,0.3,0.07814285714285714,-0.002857142857142836
+0,LR: all interpretable variables,dcb,0.35,0.051461538461538434,-0.08000000000000007
+0,LR: all interpretable variables,dcb,0.4,0.03549999999999999,-0.17000000000000004
+0,LR: all interpretable variables,dcb,0.45,0.021772727272727277,-0.2763636363636363
+0,LR: all interpretable variables,dcb,0.5,0.006499999999999992,-0.40399999999999997
+0,LR: all interpretable variables,dcb,0.55,-0.0023888888888888987,-0.56
+0,LR: all interpretable variables,dcb,0.6,-0.0020000000000000157,-0.7550000000000003
+0,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+0,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+0,LR: all interpretable variables,irae_g2,0.15,0.1298235294117647,0.12999999999999998
+0,LR: all interpretable variables,irae_g2,0.2,0.07500000000000001,0.07562500000000003
+0,LR: all interpretable variables,irae_g2,0.25,0.017333333333333367,0.013999999999999985
+0,LR: all interpretable variables,irae_g2,0.3,-0.02242857142857141,-0.056428571428571495
+0,LR: all interpretable variables,irae_g2,0.35,-0.05326923076923082,-0.13769230769230778
+0,LR: all interpretable variables,irae_g2,0.4,-0.056166666666666684,-0.23250000000000004
+0,LR: all interpretable variables,irae_g2,0.45,-0.04513636363636364,-0.34454545454545454
+0,LR: all interpretable variables,irae_g2,0.5,-0.029500000000000005,-0.47900000000000004
+0,LR: all interpretable variables,irae_g2,0.55,-0.013777777777777785,-0.6433333333333335
+0,LR: all interpretable variables,irae_g2,0.6,-0.00900000000000001,-0.8487500000000006
+0,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+0,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+0,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+0,LR: PD-L1 only,dcb,0.2,0.11312499999999999,0.1225
+0,LR: PD-L1 only,dcb,0.25,0.06133333333333334,0.064
+0,LR: PD-L1 only,dcb,0.3,0.037714285714285714,-0.002857142857142836
+0,LR: PD-L1 only,dcb,0.35,0.02665384615384614,-0.08000000000000007
+0,LR: PD-L1 only,dcb,0.4,0.010833333333333334,-0.17000000000000004
+0,LR: PD-L1 only,dcb,0.45,-0.005545454545454548,-0.2763636363636363
+0,LR: PD-L1 only,dcb,0.5,-0.014499999999999999,-0.40399999999999997
+0,LR: PD-L1 only,dcb,0.55,-0.019833333333333356,-0.56
+0,LR: PD-L1 only,dcb,0.6,-0.02425000000000002,-0.7550000000000003
+0,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+0,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+0,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+0,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+0,LR: PD-L1 only,irae_g2,0.25,0.013999999999999985,0.013999999999999985
+0,LR: PD-L1 only,irae_g2,0.3,-0.024642857142857133,-0.056428571428571495
+0,LR: PD-L1 only,irae_g2,0.35,-0.064423076923077,-0.13769230769230778
+0,LR: PD-L1 only,irae_g2,0.4,-0.04350000000000001,-0.23250000000000004
+0,LR: PD-L1 only,irae_g2,0.45,-0.05204545454545455,-0.34454545454545454
+0,LR: PD-L1 only,irae_g2,0.5,-0.0505,-0.47900000000000004
+0,LR: PD-L1 only,irae_g2,0.55,-0.03622222222222223,-0.6433333333333335
+0,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+1,Proposed (missing-aware attention),dcb,0.05,0.261078947368421,0.26105263157894737
+1,Proposed (missing-aware attention),dcb,0.1,0.21949999999999997,0.21999999999999997
+1,Proposed (missing-aware attention),dcb,0.15,0.18002941176470583,0.1741176470588235
+1,Proposed (missing-aware attention),dcb,0.2,0.13612500000000002,0.1225
+1,Proposed (missing-aware attention),dcb,0.25,0.10650000000000001,0.064
+1,Proposed (missing-aware attention),dcb,0.3,0.08207142857142857,-0.002857142857142836
+1,Proposed (missing-aware attention),dcb,0.35,0.061499999999999985,-0.08000000000000007
+1,Proposed (missing-aware attention),dcb,0.4,0.046499999999999986,-0.17000000000000004
+1,Proposed (missing-aware attention),dcb,0.45,0.036818181818181826,-0.2763636363636363
+1,Proposed (missing-aware attention),dcb,0.5,0.024,-0.40399999999999997
+1,Proposed (missing-aware attention),dcb,0.55,0.015833333333333324,-0.56
+1,Proposed (missing-aware attention),dcb,0.6,0.0077499999999999965,-0.7550000000000003
+1,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+1,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+1,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+1,Proposed (missing-aware attention),irae_g2,0.2,0.075625,0.07562500000000003
+1,Proposed (missing-aware attention),irae_g2,0.25,0.02316666666666667,0.013999999999999985
+1,Proposed (missing-aware attention),irae_g2,0.3,-0.0022142857142857172,-0.056428571428571495
+1,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+1,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+1,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+1,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+1,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+1,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+1,LR: all interpretable variables,dcb,0.05,0.2616315789473684,0.26105263157894737
+1,LR: all interpretable variables,dcb,0.1,0.22016666666666665,0.21999999999999997
+1,LR: all interpretable variables,dcb,0.15,0.17623529411764702,0.1741176470588235
+1,LR: all interpretable variables,dcb,0.2,0.14075000000000001,0.1225
+1,LR: all interpretable variables,dcb,0.25,0.09933333333333333,0.064
+1,LR: all interpretable variables,dcb,0.3,0.05935714285714286,-0.002857142857142836
+1,LR: all interpretable variables,dcb,0.35,0.033269230769230745,-0.08000000000000007
+1,LR: all interpretable variables,dcb,0.4,0.016333333333333325,-0.17000000000000004
+1,LR: all interpretable variables,dcb,0.45,0.00745454545454545,-0.2763636363636363
+1,LR: all interpretable variables,dcb,0.5,0.0,-0.40399999999999997
+1,LR: all interpretable variables,dcb,0.55,-0.002888888888888899,-0.56
+1,LR: all interpretable variables,dcb,0.6,-1.3877787807814457e-17,-0.7550000000000003
+1,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+1,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+1,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+1,LR: all interpretable variables,irae_g2,0.2,0.07550000000000001,0.07562500000000003
+1,LR: all interpretable variables,irae_g2,0.25,-0.007000000000000034,0.013999999999999985
+1,LR: all interpretable variables,irae_g2,0.3,-0.013785714285714287,-0.056428571428571495
+1,LR: all interpretable variables,irae_g2,0.35,-0.0005769230769230773,-0.13769230769230778
+1,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+1,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+1,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+1,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+1,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+1,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+1,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+1,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+1,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+1,LR: PD-L1 only,dcb,0.25,0.054833333333333345,0.064
+1,LR: PD-L1 only,dcb,0.3,0.040928571428571425,-0.002857142857142836
+1,LR: PD-L1 only,dcb,0.35,0.020769230769230748,-0.08000000000000007
+1,LR: PD-L1 only,dcb,0.4,0.012499999999999983,-0.17000000000000004
+1,LR: PD-L1 only,dcb,0.45,0.007954545454545457,-0.2763636363636363
+1,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+1,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+1,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+1,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+1,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+1,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+1,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+1,LR: PD-L1 only,irae_g2,0.25,0.0025000000000000022,0.013999999999999985
+1,LR: PD-L1 only,irae_g2,0.3,-0.01592857142857143,-0.056428571428571495
+1,LR: PD-L1 only,irae_g2,0.35,-0.03719230769230772,-0.13769230769230778
+1,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+1,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+1,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+1,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+1,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+2,Proposed (missing-aware attention),dcb,0.05,0.26105263157894737,0.26105263157894737
+2,Proposed (missing-aware attention),dcb,0.1,0.21999999999999997,0.21999999999999997
+2,Proposed (missing-aware attention),dcb,0.15,0.1742941176470588,0.1741176470588235
+2,Proposed (missing-aware attention),dcb,0.2,0.12912500000000002,0.1225
+2,Proposed (missing-aware attention),dcb,0.25,0.0906666666666667,0.064
+2,Proposed (missing-aware attention),dcb,0.3,0.05899999999999998,-0.002857142857142836
+2,Proposed (missing-aware attention),dcb,0.35,0.023807692307692294,-0.08000000000000007
+2,Proposed (missing-aware attention),dcb,0.4,0.01033333333333333,-0.17000000000000004
+2,Proposed (missing-aware attention),dcb,0.45,0.0010454545454545456,-0.2763636363636363
+2,Proposed (missing-aware attention),dcb,0.5,0.0,-0.40399999999999997
+2,Proposed (missing-aware attention),dcb,0.55,0.0,-0.56
+2,Proposed (missing-aware attention),dcb,0.6,0.0,-0.7550000000000003
+2,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+2,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+2,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+2,Proposed (missing-aware attention),irae_g2,0.2,0.07475000000000004,0.07562500000000003
+2,Proposed (missing-aware attention),irae_g2,0.25,-0.020666666666666667,0.013999999999999985
+2,Proposed (missing-aware attention),irae_g2,0.3,0.0,-0.056428571428571495
+2,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+2,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+2,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+2,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+2,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+2,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+2,LR: all interpretable variables,dcb,0.05,0.26089473684210523,0.26105263157894737
+2,LR: all interpretable variables,dcb,0.1,0.22099999999999997,0.21999999999999997
+2,LR: all interpretable variables,dcb,0.15,0.18241176470588233,0.1741176470588235
+2,LR: all interpretable variables,dcb,0.2,0.141125,0.1225
+2,LR: all interpretable variables,dcb,0.25,0.108,0.064
+2,LR: all interpretable variables,dcb,0.3,0.06985714285714285,-0.002857142857142836
+2,LR: all interpretable variables,dcb,0.35,0.0446153846153846,-0.08000000000000007
+2,LR: all interpretable variables,dcb,0.4,0.020500000000000004,-0.17000000000000004
+2,LR: all interpretable variables,dcb,0.45,0.008954545454545451,-0.2763636363636363
+2,LR: all interpretable variables,dcb,0.5,0.0025000000000000022,-0.40399999999999997
+2,LR: all interpretable variables,dcb,0.55,-0.00233333333333334,-0.56
+2,LR: all interpretable variables,dcb,0.6,0.0009999999999999974,-0.7550000000000003
+2,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+2,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+2,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+2,LR: all interpretable variables,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+2,LR: all interpretable variables,irae_g2,0.25,-0.00016666666666666666,0.013999999999999985
+2,LR: all interpretable variables,irae_g2,0.3,0.0,-0.056428571428571495
+2,LR: all interpretable variables,irae_g2,0.35,0.0,-0.13769230769230778
+2,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+2,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+2,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+2,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+2,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+2,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+2,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+2,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+2,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+2,LR: PD-L1 only,dcb,0.25,0.064,0.064
+2,LR: PD-L1 only,dcb,0.3,0.02857142857142858,-0.002857142857142836
+2,LR: PD-L1 only,dcb,0.35,0.0,-0.08000000000000007
+2,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+2,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+2,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+2,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+2,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+2,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+2,LR: PD-L1 only,irae_g2,0.1,0.1721111111111111,0.17833333333333334
+2,LR: PD-L1 only,irae_g2,0.15,0.10676470588235294,0.12999999999999998
+2,LR: PD-L1 only,irae_g2,0.2,0.04824999999999999,0.07562500000000003
+2,LR: PD-L1 only,irae_g2,0.25,-0.0026666666666666505,0.013999999999999985
+2,LR: PD-L1 only,irae_g2,0.3,-0.027357142857142858,-0.056428571428571495
+2,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+2,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+2,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+2,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+2,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+2,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+3,Proposed (missing-aware attention),dcb,0.05,0.2606842105263158,0.26105263157894737
+3,Proposed (missing-aware attention),dcb,0.1,0.2212222222222222,0.21999999999999997
+3,Proposed (missing-aware attention),dcb,0.15,0.18291176470588236,0.1741176470588235
+3,Proposed (missing-aware attention),dcb,0.2,0.142625,0.1225
+3,Proposed (missing-aware attention),dcb,0.25,0.10883333333333335,0.064
+3,Proposed (missing-aware attention),dcb,0.3,0.07171428571428572,-0.002857142857142836
+3,Proposed (missing-aware attention),dcb,0.35,0.044692307692307684,-0.08000000000000007
+3,Proposed (missing-aware attention),dcb,0.4,0.028166666666666666,-0.17000000000000004
+3,Proposed (missing-aware attention),dcb,0.45,0.009000000000000001,-0.2763636363636363
+3,Proposed (missing-aware attention),dcb,0.5,0.0034999999999999996,-0.40399999999999997
+3,Proposed (missing-aware attention),dcb,0.55,0.0021111111111111105,-0.56
+3,Proposed (missing-aware attention),dcb,0.6,0.0002499999999999989,-0.7550000000000003
+3,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+3,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+3,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+3,Proposed (missing-aware attention),irae_g2,0.2,0.0,0.07562500000000003
+3,Proposed (missing-aware attention),irae_g2,0.25,0.0,0.013999999999999985
+3,Proposed (missing-aware attention),irae_g2,0.3,0.0,-0.056428571428571495
+3,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+3,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+3,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+3,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+3,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+3,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+3,LR: all interpretable variables,dcb,0.05,0.26105263157894737,0.26105263157894737
+3,LR: all interpretable variables,dcb,0.1,0.21999999999999997,0.21999999999999997
+3,LR: all interpretable variables,dcb,0.15,0.17420588235294115,0.1741176470588235
+3,LR: all interpretable variables,dcb,0.2,0.1235,0.1225
+3,LR: all interpretable variables,dcb,0.25,0.07683333333333331,0.064
+3,LR: all interpretable variables,dcb,0.3,0.0685,-0.002857142857142836
+3,LR: all interpretable variables,dcb,0.35,0.04111538461538461,-0.08000000000000007
+3,LR: all interpretable variables,dcb,0.4,0.005666666666666667,-0.17000000000000004
+3,LR: all interpretable variables,dcb,0.45,0.0,-0.2763636363636363
+3,LR: all interpretable variables,dcb,0.5,0.0,-0.40399999999999997
+3,LR: all interpretable variables,dcb,0.55,0.0,-0.56
+3,LR: all interpretable variables,dcb,0.6,0.0,-0.7550000000000003
+3,LR: all interpretable variables,irae_g2,0.05,0.214,0.22157894736842104
+3,LR: all interpretable variables,irae_g2,0.1,0.1308888888888889,0.17833333333333334
+3,LR: all interpretable variables,irae_g2,0.15,0.07697058823529411,0.12999999999999998
+3,LR: all interpretable variables,irae_g2,0.2,0.04575,0.07562500000000003
+3,LR: all interpretable variables,irae_g2,0.25,0.03283333333333334,0.013999999999999985
+3,LR: all interpretable variables,irae_g2,0.3,0.022571428571428572,-0.056428571428571495
+3,LR: all interpretable variables,irae_g2,0.35,0.013846153846153841,-0.13769230769230778
+3,LR: all interpretable variables,irae_g2,0.4,0.008666666666666665,-0.23250000000000004
+3,LR: all interpretable variables,irae_g2,0.45,0.0036363636363636364,-0.34454545454545454
+3,LR: all interpretable variables,irae_g2,0.5,0.0004999999999999996,-0.47900000000000004
+3,LR: all interpretable variables,irae_g2,0.55,-0.0002777777777777787,-0.6433333333333335
+3,LR: all interpretable variables,irae_g2,0.6,0.0007499999999999989,-0.8487500000000006
+3,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+3,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+3,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+3,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+3,LR: PD-L1 only,dcb,0.25,0.064,0.064
+3,LR: PD-L1 only,dcb,0.3,-0.002857142857142836,-0.002857142857142836
+3,LR: PD-L1 only,dcb,0.35,0.0,-0.08000000000000007
+3,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+3,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+3,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+3,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+3,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+3,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+3,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+3,LR: PD-L1 only,irae_g2,0.15,0.08982352941176469,0.12999999999999998
+3,LR: PD-L1 only,irae_g2,0.2,0.0,0.07562500000000003
+3,LR: PD-L1 only,irae_g2,0.25,0.0,0.013999999999999985
+3,LR: PD-L1 only,irae_g2,0.3,0.0,-0.056428571428571495
+3,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+3,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+3,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+3,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+3,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+3,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+4,Proposed (missing-aware attention),dcb,0.05,0.25971052631578945,0.26105263157894737
+4,Proposed (missing-aware attention),dcb,0.1,0.21766666666666665,0.21999999999999997
+4,Proposed (missing-aware attention),dcb,0.15,0.17602941176470588,0.1741176470588235
+4,Proposed (missing-aware attention),dcb,0.2,0.13124999999999998,0.1225
+4,Proposed (missing-aware attention),dcb,0.25,0.09266666666666666,0.064
+4,Proposed (missing-aware attention),dcb,0.3,0.06978571428571427,-0.002857142857142836
+4,Proposed (missing-aware attention),dcb,0.35,0.03776923076923076,-0.08000000000000007
+4,Proposed (missing-aware attention),dcb,0.4,0.024999999999999994,-0.17000000000000004
+4,Proposed (missing-aware attention),dcb,0.45,0.009681818181818187,-0.2763636363636363
+4,Proposed (missing-aware attention),dcb,0.5,0.0,-0.40399999999999997
+4,Proposed (missing-aware attention),dcb,0.55,-0.004055555555555562,-0.56
+4,Proposed (missing-aware attention),dcb,0.6,-0.004750000000000004,-0.7550000000000003
+4,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+4,Proposed (missing-aware attention),irae_g2,0.1,0.16799999999999998,0.17833333333333334
+4,Proposed (missing-aware attention),irae_g2,0.15,0.06720588235294117,0.12999999999999998
+4,Proposed (missing-aware attention),irae_g2,0.2,0.005625,0.07562500000000003
+4,Proposed (missing-aware attention),irae_g2,0.25,0.0006666666666666668,0.013999999999999985
+4,Proposed (missing-aware attention),irae_g2,0.3,0.0,-0.056428571428571495
+4,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+4,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+4,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+4,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+4,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+4,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+4,LR: all interpretable variables,dcb,0.05,0.26139473684210524,0.26105263157894737
+4,LR: all interpretable variables,dcb,0.1,0.2162222222222222,0.21999999999999997
+4,LR: all interpretable variables,dcb,0.15,0.17158823529411765,0.1741176470588235
+4,LR: all interpretable variables,dcb,0.2,0.12637500000000002,0.1225
+4,LR: all interpretable variables,dcb,0.25,0.09283333333333335,0.064
+4,LR: all interpretable variables,dcb,0.3,0.06735714285714287,-0.002857142857142836
+4,LR: all interpretable variables,dcb,0.35,0.05023076923076919,-0.08000000000000007
+4,LR: all interpretable variables,dcb,0.4,0.0315,-0.17000000000000004
+4,LR: all interpretable variables,dcb,0.45,0.019954545454545454,-0.2763636363636363
+4,LR: all interpretable variables,dcb,0.5,0.014000000000000002,-0.40399999999999997
+4,LR: all interpretable variables,dcb,0.55,0.008166666666666666,-0.56
+4,LR: all interpretable variables,dcb,0.6,0.0007499999999999981,-0.7550000000000003
+4,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+4,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+4,LR: all interpretable variables,irae_g2,0.15,0.054882352941176465,0.12999999999999998
+4,LR: all interpretable variables,irae_g2,0.2,0.0,0.07562500000000003
+4,LR: all interpretable variables,irae_g2,0.25,0.0,0.013999999999999985
+4,LR: all interpretable variables,irae_g2,0.3,0.0,-0.056428571428571495
+4,LR: all interpretable variables,irae_g2,0.35,0.0,-0.13769230769230778
+4,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+4,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+4,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+4,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+4,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+4,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+4,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+4,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+4,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+4,LR: PD-L1 only,dcb,0.25,0.06800000000000002,0.064
+4,LR: PD-L1 only,dcb,0.3,0.04342857142857144,-0.002857142857142836
+4,LR: PD-L1 only,dcb,0.35,0.020115384615384604,-0.08000000000000007
+4,LR: PD-L1 only,dcb,0.4,0.009833333333333319,-0.17000000000000004
+4,LR: PD-L1 only,dcb,0.45,-0.0031818181818181746,-0.2763636363636363
+4,LR: PD-L1 only,dcb,0.5,-0.008000000000000007,-0.40399999999999997
+4,LR: PD-L1 only,dcb,0.55,-0.008611111111111125,-0.56
+4,LR: PD-L1 only,dcb,0.6,-0.0007500000000000041,-0.7550000000000003
+4,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+4,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+4,LR: PD-L1 only,irae_g2,0.15,0.032852941176470585,0.12999999999999998
+4,LR: PD-L1 only,irae_g2,0.2,0.0,0.07562500000000003
+4,LR: PD-L1 only,irae_g2,0.25,0.0,0.013999999999999985
+4,LR: PD-L1 only,irae_g2,0.3,0.0,-0.056428571428571495
+4,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+4,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+4,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+4,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+4,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+4,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+5,Proposed (missing-aware attention),dcb,0.05,0.2616578947368421,0.26105263157894737
+5,Proposed (missing-aware attention),dcb,0.1,0.21966666666666665,0.21999999999999997
+5,Proposed (missing-aware attention),dcb,0.15,0.17702941176470588,0.1741176470588235
+5,Proposed (missing-aware attention),dcb,0.2,0.13325,0.1225
+5,Proposed (missing-aware attention),dcb,0.25,0.09683333333333334,0.064
+5,Proposed (missing-aware attention),dcb,0.3,0.06392857142857142,-0.002857142857142836
+5,Proposed (missing-aware attention),dcb,0.35,0.0428076923076923,-0.08000000000000007
+5,Proposed (missing-aware attention),dcb,0.4,0.02550000000000001,-0.17000000000000004
+5,Proposed (missing-aware attention),dcb,0.45,0.013772727272727277,-0.2763636363636363
+5,Proposed (missing-aware attention),dcb,0.5,0.013499999999999998,-0.40399999999999997
+5,Proposed (missing-aware attention),dcb,0.55,0.013666666666666657,-0.56
+5,Proposed (missing-aware attention),dcb,0.6,0.0014999999999999944,-0.7550000000000003
+5,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+5,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+5,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+5,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+5,Proposed (missing-aware attention),irae_g2,0.25,-0.01266666666666666,0.013999999999999985
+5,Proposed (missing-aware attention),irae_g2,0.3,0.0,-0.056428571428571495
+5,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+5,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+5,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+5,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+5,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+5,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+5,LR: all interpretable variables,dcb,0.05,0.261078947368421,0.26105263157894737
+5,LR: all interpretable variables,dcb,0.1,0.21977777777777777,0.21999999999999997
+5,LR: all interpretable variables,dcb,0.15,0.17402941176470585,0.1741176470588235
+5,LR: all interpretable variables,dcb,0.2,0.13512500000000002,0.1225
+5,LR: all interpretable variables,dcb,0.25,0.09566666666666668,0.064
+5,LR: all interpretable variables,dcb,0.3,0.06907142857142858,-0.002857142857142836
+5,LR: all interpretable variables,dcb,0.35,0.047461538461538444,-0.08000000000000007
+5,LR: all interpretable variables,dcb,0.4,0.022666666666666665,-0.17000000000000004
+5,LR: all interpretable variables,dcb,0.45,0.009000000000000001,-0.2763636363636363
+5,LR: all interpretable variables,dcb,0.5,0.0025,-0.40399999999999997
+5,LR: all interpretable variables,dcb,0.55,0.0,-0.56
+5,LR: all interpretable variables,dcb,0.6,0.0,-0.7550000000000003
+5,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+5,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+5,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+5,LR: all interpretable variables,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+5,LR: all interpretable variables,irae_g2,0.25,0.018166666666666637,0.013999999999999985
+5,LR: all interpretable variables,irae_g2,0.3,0.0017857142857142859,-0.056428571428571495
+5,LR: all interpretable variables,irae_g2,0.35,0.0,-0.13769230769230778
+5,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+5,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+5,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+5,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+5,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+5,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+5,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+5,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+5,LR: PD-L1 only,dcb,0.2,0.10887499999999999,0.1225
+5,LR: PD-L1 only,dcb,0.25,0.0635,0.064
+5,LR: PD-L1 only,dcb,0.3,0.02857142857142858,-0.002857142857142836
+5,LR: PD-L1 only,dcb,0.35,0.024076923076923065,-0.08000000000000007
+5,LR: PD-L1 only,dcb,0.4,0.014666666666666661,-0.17000000000000004
+5,LR: PD-L1 only,dcb,0.45,0.0025454545454545456,-0.2763636363636363
+5,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+5,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+5,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+5,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+5,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+5,LR: PD-L1 only,irae_g2,0.15,0.12455882352941174,0.12999999999999998
+5,LR: PD-L1 only,irae_g2,0.2,0.04274999999999998,0.07562500000000003
+5,LR: PD-L1 only,irae_g2,0.25,0.0025000000000000022,0.013999999999999985
+5,LR: PD-L1 only,irae_g2,0.3,-0.01592857142857143,-0.056428571428571495
+5,LR: PD-L1 only,irae_g2,0.35,-0.03719230769230772,-0.13769230769230778
+5,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+5,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+5,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+5,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+5,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+6,Proposed (missing-aware attention),dcb,0.05,0.2587894736842105,0.26105263157894737
+6,Proposed (missing-aware attention),dcb,0.1,0.2174444444444444,0.21999999999999997
+6,Proposed (missing-aware attention),dcb,0.15,0.1768235294117647,0.1741176470588235
+6,Proposed (missing-aware attention),dcb,0.2,0.1365,0.1225
+6,Proposed (missing-aware attention),dcb,0.25,0.0995,0.064
+6,Proposed (missing-aware attention),dcb,0.3,0.07778571428571428,-0.002857142857142836
+6,Proposed (missing-aware attention),dcb,0.35,0.0614230769230769,-0.08000000000000007
+6,Proposed (missing-aware attention),dcb,0.4,0.04366666666666666,-0.17000000000000004
+6,Proposed (missing-aware attention),dcb,0.45,0.028590909090909097,-0.2763636363636363
+6,Proposed (missing-aware attention),dcb,0.5,0.014000000000000002,-0.40399999999999997
+6,Proposed (missing-aware attention),dcb,0.55,0.01233333333333333,-0.56
+6,Proposed (missing-aware attention),dcb,0.6,0.0027499999999999972,-0.7550000000000003
+6,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+6,Proposed (missing-aware attention),irae_g2,0.1,0.17838888888888887,0.17833333333333334
+6,Proposed (missing-aware attention),irae_g2,0.15,0.13117647058823528,0.12999999999999998
+6,Proposed (missing-aware attention),irae_g2,0.2,0.079875,0.07562500000000003
+6,Proposed (missing-aware attention),irae_g2,0.25,0.02616666666666667,0.013999999999999985
+6,Proposed (missing-aware attention),irae_g2,0.3,-0.012928571428571428,-0.056428571428571495
+6,Proposed (missing-aware attention),irae_g2,0.35,-0.027769230769230796,-0.13769230769230778
+6,Proposed (missing-aware attention),irae_g2,0.4,-0.013666666666666674,-0.23250000000000004
+6,Proposed (missing-aware attention),irae_g2,0.45,-0.0054090909090909085,-0.34454545454545454
+6,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+6,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+6,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+6,LR: all interpretable variables,dcb,0.05,0.2582631578947368,0.26105263157894737
+6,LR: all interpretable variables,dcb,0.1,0.2145555555555555,0.21999999999999997
+6,LR: all interpretable variables,dcb,0.15,0.16561764705882354,0.1741176470588235
+6,LR: all interpretable variables,dcb,0.2,0.13087500000000002,0.1225
+6,LR: all interpretable variables,dcb,0.25,0.09616666666666668,0.064
+6,LR: all interpretable variables,dcb,0.3,0.07014285714285715,-0.002857142857142836
+6,LR: all interpretable variables,dcb,0.35,0.042576923076923054,-0.08000000000000007
+6,LR: all interpretable variables,dcb,0.4,0.022666666666666654,-0.17000000000000004
+6,LR: all interpretable variables,dcb,0.45,0.02177272727272727,-0.2763636363636363
+6,LR: all interpretable variables,dcb,0.5,0.0049999999999999975,-0.40399999999999997
+6,LR: all interpretable variables,dcb,0.55,-0.006111111111111116,-0.56
+6,LR: all interpretable variables,dcb,0.6,-0.005250000000000012,-0.7550000000000003
+6,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+6,LR: all interpretable variables,irae_g2,0.1,0.17805555555555558,0.17833333333333334
+6,LR: all interpretable variables,irae_g2,0.15,0.12649999999999997,0.12999999999999998
+6,LR: all interpretable variables,irae_g2,0.2,0.07949999999999999,0.07562500000000003
+6,LR: all interpretable variables,irae_g2,0.25,0.04416666666666666,0.013999999999999985
+6,LR: all interpretable variables,irae_g2,0.3,0.024214285714285702,-0.056428571428571495
+6,LR: all interpretable variables,irae_g2,0.35,0.008384615384615365,-0.13769230769230778
+6,LR: all interpretable variables,irae_g2,0.4,-0.0010000000000000009,-0.23250000000000004
+6,LR: all interpretable variables,irae_g2,0.45,-0.005772727272727263,-0.34454545454545454
+6,LR: all interpretable variables,irae_g2,0.5,-0.0075,-0.47900000000000004
+6,LR: all interpretable variables,irae_g2,0.55,-0.006611111111111116,-0.6433333333333335
+6,LR: all interpretable variables,irae_g2,0.6,-0.008000000000000014,-0.8487500000000006
+6,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+6,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+6,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+6,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+6,LR: PD-L1 only,dcb,0.25,0.064,0.064
+6,LR: PD-L1 only,dcb,0.3,0.031071428571428583,-0.002857142857142836
+6,LR: PD-L1 only,dcb,0.35,0.024499999999999994,-0.08000000000000007
+6,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+6,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+6,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+6,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+6,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+6,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+6,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+6,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+6,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+6,LR: PD-L1 only,irae_g2,0.25,0.013999999999999985,0.013999999999999985
+6,LR: PD-L1 only,irae_g2,0.3,-0.056428571428571495,-0.056428571428571495
+6,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+6,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+6,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+6,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+6,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+6,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+7,Proposed (missing-aware attention),dcb,0.05,0.2592894736842105,0.26105263157894737
+7,Proposed (missing-aware attention),dcb,0.1,0.21733333333333332,0.21999999999999997
+7,Proposed (missing-aware attention),dcb,0.15,0.1753529411764706,0.1741176470588235
+7,Proposed (missing-aware attention),dcb,0.2,0.12862500000000002,0.1225
+7,Proposed (missing-aware attention),dcb,0.25,0.10283333333333333,0.064
+7,Proposed (missing-aware attention),dcb,0.3,0.07192857142857143,-0.002857142857142836
+7,Proposed (missing-aware attention),dcb,0.35,0.05311538461538459,-0.08000000000000007
+7,Proposed (missing-aware attention),dcb,0.4,0.0465,-0.17000000000000004
+7,Proposed (missing-aware attention),dcb,0.45,0.03609090909090909,-0.2763636363636363
+7,Proposed (missing-aware attention),dcb,0.5,0.023,-0.40399999999999997
+7,Proposed (missing-aware attention),dcb,0.55,0.016666666666666666,-0.56
+7,Proposed (missing-aware attention),dcb,0.6,0.010499999999999992,-0.7550000000000003
+7,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+7,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+7,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+7,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+7,Proposed (missing-aware attention),irae_g2,0.25,0.013999999999999985,0.013999999999999985
+7,Proposed (missing-aware attention),irae_g2,0.3,-0.05678571428571427,-0.056428571428571495
+7,Proposed (missing-aware attention),irae_g2,0.35,-0.005192307692307693,-0.13769230769230778
+7,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+7,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+7,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+7,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+7,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+7,LR: all interpretable variables,dcb,0.05,0.26055263157894737,0.26105263157894737
+7,LR: all interpretable variables,dcb,0.1,0.2201111111111111,0.21999999999999997
+7,LR: all interpretable variables,dcb,0.15,0.17744117647058824,0.1741176470588235
+7,LR: all interpretable variables,dcb,0.2,0.13924999999999998,0.1225
+7,LR: all interpretable variables,dcb,0.25,0.10016666666666665,0.064
+7,LR: all interpretable variables,dcb,0.3,0.06435714285714286,-0.002857142857142836
+7,LR: all interpretable variables,dcb,0.35,0.03434615384615382,-0.08000000000000007
+7,LR: all interpretable variables,dcb,0.4,0.015666666666666648,-0.17000000000000004
+7,LR: all interpretable variables,dcb,0.45,0.007000000000000006,-0.2763636363636363
+7,LR: all interpretable variables,dcb,0.5,0.003999999999999997,-0.40399999999999997
+7,LR: all interpretable variables,dcb,0.55,-0.0003333333333333348,-0.56
+7,LR: all interpretable variables,dcb,0.6,0.0007499999999999972,-0.7550000000000003
+7,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+7,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+7,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+7,LR: all interpretable variables,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+7,LR: all interpretable variables,irae_g2,0.25,0.014166666666666689,0.013999999999999985
+7,LR: all interpretable variables,irae_g2,0.3,-0.02921428571428572,-0.056428571428571495
+7,LR: all interpretable variables,irae_g2,0.35,0.014038461538461527,-0.13769230769230778
+7,LR: all interpretable variables,irae_g2,0.4,0.0026666666666666666,-0.23250000000000004
+7,LR: all interpretable variables,irae_g2,0.45,0.0005,-0.34454545454545454
+7,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+7,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+7,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+7,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+7,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+7,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+7,LR: PD-L1 only,dcb,0.2,0.113,0.1225
+7,LR: PD-L1 only,dcb,0.25,0.06499999999999999,0.064
+7,LR: PD-L1 only,dcb,0.3,0.02464285714285712,-0.002857142857142836
+7,LR: PD-L1 only,dcb,0.35,0.018961538461538457,-0.08000000000000007
+7,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+7,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+7,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+7,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+7,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+7,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+7,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+7,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+7,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+7,LR: PD-L1 only,irae_g2,0.25,0.013999999999999985,0.013999999999999985
+7,LR: PD-L1 only,irae_g2,0.3,-0.05035714285714288,-0.056428571428571495
+7,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+7,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+7,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+7,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+7,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+7,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+8,Proposed (missing-aware attention),dcb,0.05,0.2611315789473684,0.26105263157894737
+8,Proposed (missing-aware attention),dcb,0.1,0.21977777777777774,0.21999999999999997
+8,Proposed (missing-aware attention),dcb,0.15,0.17167647058823532,0.1741176470588235
+8,Proposed (missing-aware attention),dcb,0.2,0.12725,0.1225
+8,Proposed (missing-aware attention),dcb,0.25,0.08783333333333333,0.064
+8,Proposed (missing-aware attention),dcb,0.3,0.06749999999999999,-0.002857142857142836
+8,Proposed (missing-aware attention),dcb,0.35,0.04776923076923073,-0.08000000000000007
+8,Proposed (missing-aware attention),dcb,0.4,0.02716666666666666,-0.17000000000000004
+8,Proposed (missing-aware attention),dcb,0.45,0.020227272727272733,-0.2763636363636363
+8,Proposed (missing-aware attention),dcb,0.5,0.009000000000000008,-0.40399999999999997
+8,Proposed (missing-aware attention),dcb,0.55,0.002944444444444437,-0.56
+8,Proposed (missing-aware attention),dcb,0.6,-0.0032500000000000168,-0.7550000000000003
+8,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+8,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+8,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+8,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+8,Proposed (missing-aware attention),irae_g2,0.25,0.013999999999999985,0.013999999999999985
+8,Proposed (missing-aware attention),irae_g2,0.3,-0.020642857142857136,-0.056428571428571495
+8,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+8,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+8,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+8,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+8,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+8,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+8,LR: all interpretable variables,dcb,0.05,0.2611315789473684,0.26105263157894737
+8,LR: all interpretable variables,dcb,0.1,0.22033333333333333,0.21999999999999997
+8,LR: all interpretable variables,dcb,0.15,0.17770588235294116,0.1741176470588235
+8,LR: all interpretable variables,dcb,0.2,0.12850000000000003,0.1225
+8,LR: all interpretable variables,dcb,0.25,0.08733333333333332,0.064
+8,LR: all interpretable variables,dcb,0.3,0.05342857142857141,-0.002857142857142836
+8,LR: all interpretable variables,dcb,0.35,0.019269230769230747,-0.08000000000000007
+8,LR: all interpretable variables,dcb,0.4,0.0048333333333333145,-0.17000000000000004
+8,LR: all interpretable variables,dcb,0.45,-0.0013636363636363655,-0.2763636363636363
+8,LR: all interpretable variables,dcb,0.5,0.0034999999999999996,-0.40399999999999997
+8,LR: all interpretable variables,dcb,0.55,0.004833333333333332,-0.56
+8,LR: all interpretable variables,dcb,0.6,0.002499999999999998,-0.7550000000000003
+8,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+8,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+8,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+8,LR: all interpretable variables,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+8,LR: all interpretable variables,irae_g2,0.25,0.013999999999999985,0.013999999999999985
+8,LR: all interpretable variables,irae_g2,0.3,-0.01885714285714286,-0.056428571428571495
+8,LR: all interpretable variables,irae_g2,0.35,0.0,-0.13769230769230778
+8,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+8,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+8,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+8,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+8,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+8,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+8,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+8,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+8,LR: PD-L1 only,dcb,0.2,0.115,0.1225
+8,LR: PD-L1 only,dcb,0.25,0.07033333333333333,0.064
+8,LR: PD-L1 only,dcb,0.3,0.0315,-0.002857142857142836
+8,LR: PD-L1 only,dcb,0.35,0.026884615384615368,-0.08000000000000007
+8,LR: PD-L1 only,dcb,0.4,0.011666666666666659,-0.17000000000000004
+8,LR: PD-L1 only,dcb,0.45,0.0037727272727272818,-0.2763636363636363
+8,LR: PD-L1 only,dcb,0.5,-0.0025000000000000022,-0.40399999999999997
+8,LR: PD-L1 only,dcb,0.55,-0.0017222222222222291,-0.56
+8,LR: PD-L1 only,dcb,0.6,-0.0010000000000000035,-0.7550000000000003
+8,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+8,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+8,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+8,LR: PD-L1 only,irae_g2,0.2,0.056999999999999995,0.07562500000000003
+8,LR: PD-L1 only,irae_g2,0.25,0.008500000000000008,0.013999999999999985
+8,LR: PD-L1 only,irae_g2,0.3,-0.035714285714285726,-0.056428571428571495
+8,LR: PD-L1 only,irae_g2,0.35,-0.05480769230769235,-0.13769230769230778
+8,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+8,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+8,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+8,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+8,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+9,Proposed (missing-aware attention),dcb,0.05,0.26105263157894737,0.26105263157894737
+9,Proposed (missing-aware attention),dcb,0.1,0.21999999999999997,0.21999999999999997
+9,Proposed (missing-aware attention),dcb,0.15,0.1744705882352941,0.1741176470588235
+9,Proposed (missing-aware attention),dcb,0.2,0.12449999999999997,0.1225
+9,Proposed (missing-aware attention),dcb,0.25,0.08683333333333332,0.064
+9,Proposed (missing-aware attention),dcb,0.3,0.057785714285714274,-0.002857142857142836
+9,Proposed (missing-aware attention),dcb,0.35,0.02015384615384615,-0.08000000000000007
+9,Proposed (missing-aware attention),dcb,0.4,0.00016666666666666663,-0.17000000000000004
+9,Proposed (missing-aware attention),dcb,0.45,0.0,-0.2763636363636363
+9,Proposed (missing-aware attention),dcb,0.5,0.0,-0.40399999999999997
+9,Proposed (missing-aware attention),dcb,0.55,0.0,-0.56
+9,Proposed (missing-aware attention),dcb,0.6,0.0,-0.7550000000000003
+9,Proposed (missing-aware attention),irae_g2,0.05,0.22147368421052632,0.22157894736842104
+9,Proposed (missing-aware attention),irae_g2,0.1,0.17822222222222223,0.17833333333333334
+9,Proposed (missing-aware attention),irae_g2,0.15,0.12935294117647056,0.12999999999999998
+9,Proposed (missing-aware attention),irae_g2,0.2,0.072375,0.07562500000000003
+9,Proposed (missing-aware attention),irae_g2,0.25,0.024333333333333318,0.013999999999999985
+9,Proposed (missing-aware attention),irae_g2,0.3,-0.003214285714285725,-0.056428571428571495
+9,Proposed (missing-aware attention),irae_g2,0.35,-0.0046923076923077005,-0.13769230769230778
+9,Proposed (missing-aware attention),irae_g2,0.4,0.00033333333333333305,-0.23250000000000004
+9,Proposed (missing-aware attention),irae_g2,0.45,-0.0006363636363636363,-0.34454545454545454
+9,Proposed (missing-aware attention),irae_g2,0.5,-0.0005,-0.47900000000000004
+9,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+9,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+9,LR: all interpretable variables,dcb,0.05,0.26105263157894737,0.26105263157894737
+9,LR: all interpretable variables,dcb,0.1,0.21999999999999997,0.21999999999999997
+9,LR: all interpretable variables,dcb,0.15,0.17370588235294115,0.1741176470588235
+9,LR: all interpretable variables,dcb,0.2,0.12587500000000001,0.1225
+9,LR: all interpretable variables,dcb,0.25,0.0925,0.064
+9,LR: all interpretable variables,dcb,0.3,0.06478571428571428,-0.002857142857142836
+9,LR: all interpretable variables,dcb,0.35,0.040769230769230766,-0.08000000000000007
+9,LR: all interpretable variables,dcb,0.4,0.013833333333333333,-0.17000000000000004
+9,LR: all interpretable variables,dcb,0.45,0.0002727272727272728,-0.2763636363636363
+9,LR: all interpretable variables,dcb,0.5,-0.0005,-0.40399999999999997
+9,LR: all interpretable variables,dcb,0.55,0.0,-0.56
+9,LR: all interpretable variables,dcb,0.6,0.0,-0.7550000000000003
+9,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+9,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+9,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+9,LR: all interpretable variables,irae_g2,0.2,0.07950000000000002,0.07562500000000003
+9,LR: all interpretable variables,irae_g2,0.25,0.02683333333333332,0.013999999999999985
+9,LR: all interpretable variables,irae_g2,0.3,0.007142857142857142,-0.056428571428571495
+9,LR: all interpretable variables,irae_g2,0.35,0.0038461538461538455,-0.13769230769230778
+9,LR: all interpretable variables,irae_g2,0.4,0.0005,-0.23250000000000004
+9,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+9,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+9,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+9,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+9,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+9,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+9,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+9,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+9,LR: PD-L1 only,dcb,0.25,0.064,0.064
+9,LR: PD-L1 only,dcb,0.3,-0.029071428571428554,-0.002857142857142836
+9,LR: PD-L1 only,dcb,0.35,0.0,-0.08000000000000007
+9,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+9,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+9,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+9,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+9,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+9,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+9,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+9,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+9,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+9,LR: PD-L1 only,irae_g2,0.25,0.019166666666666665,0.013999999999999985
+9,LR: PD-L1 only,irae_g2,0.3,0.0,-0.056428571428571495
+9,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+9,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+9,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+9,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+9,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+9,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+10,Proposed (missing-aware attention),dcb,0.05,0.2601578947368421,0.26105263157894737
+10,Proposed (missing-aware attention),dcb,0.1,0.2168888888888889,0.21999999999999997
+10,Proposed (missing-aware attention),dcb,0.15,0.1738823529411765,0.1741176470588235
+10,Proposed (missing-aware attention),dcb,0.2,0.13499999999999998,0.1225
+10,Proposed (missing-aware attention),dcb,0.25,0.10200000000000001,0.064
+10,Proposed (missing-aware attention),dcb,0.3,0.07242857142857145,-0.002857142857142836
+10,Proposed (missing-aware attention),dcb,0.35,0.043884615384615355,-0.08000000000000007
+10,Proposed (missing-aware attention),dcb,0.4,0.021833333333333316,-0.17000000000000004
+10,Proposed (missing-aware attention),dcb,0.45,-0.0023181818181818026,-0.2763636363636363
+10,Proposed (missing-aware attention),dcb,0.5,-0.018500000000000003,-0.40399999999999997
+10,Proposed (missing-aware attention),dcb,0.55,-0.025611111111111112,-0.56
+10,Proposed (missing-aware attention),dcb,0.6,-0.040750000000000036,-0.7550000000000003
+10,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+10,Proposed (missing-aware attention),irae_g2,0.1,0.1785,0.17833333333333334
+10,Proposed (missing-aware attention),irae_g2,0.15,0.13188235294117645,0.12999999999999998
+10,Proposed (missing-aware attention),irae_g2,0.2,0.07874999999999999,0.07562500000000003
+10,Proposed (missing-aware attention),irae_g2,0.25,0.026666666666666672,0.013999999999999985
+10,Proposed (missing-aware attention),irae_g2,0.3,-0.00992857142857144,-0.056428571428571495
+10,Proposed (missing-aware attention),irae_g2,0.35,-0.02053846153846156,-0.13769230769230778
+10,Proposed (missing-aware attention),irae_g2,0.4,-0.010833333333333334,-0.23250000000000004
+10,Proposed (missing-aware attention),irae_g2,0.45,-0.0074090909090909094,-0.34454545454545454
+10,Proposed (missing-aware attention),irae_g2,0.5,-0.004,-0.47900000000000004
+10,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+10,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+10,LR: all interpretable variables,dcb,0.05,0.25621052631578944,0.26105263157894737
+10,LR: all interpretable variables,dcb,0.1,0.21661111111111114,0.21999999999999997
+10,LR: all interpretable variables,dcb,0.15,0.17414705882352943,0.1741176470588235
+10,LR: all interpretable variables,dcb,0.2,0.139625,0.1225
+10,LR: all interpretable variables,dcb,0.25,0.10300000000000001,0.064
+10,LR: all interpretable variables,dcb,0.3,0.06764285714285712,-0.002857142857142836
+10,LR: all interpretable variables,dcb,0.35,0.03469230769230763,-0.08000000000000007
+10,LR: all interpretable variables,dcb,0.4,0.014499999999999985,-0.17000000000000004
+10,LR: all interpretable variables,dcb,0.45,-0.011409090909090897,-0.2763636363636363
+10,LR: all interpretable variables,dcb,0.5,-0.03299999999999999,-0.40399999999999997
+10,LR: all interpretable variables,dcb,0.55,-0.04150000000000004,-0.56
+10,LR: all interpretable variables,dcb,0.6,-0.04275000000000005,-0.7550000000000003
+10,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+10,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+10,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+10,LR: all interpretable variables,irae_g2,0.2,0.074875,0.07562500000000003
+10,LR: all interpretable variables,irae_g2,0.25,0.016166666666666663,0.013999999999999985
+10,LR: all interpretable variables,irae_g2,0.3,0.0007857142857142924,-0.056428571428571495
+10,LR: all interpretable variables,irae_g2,0.35,-0.0005000000000000004,-0.13769230769230778
+10,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+10,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+10,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+10,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+10,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+10,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+10,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+10,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+10,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+10,LR: PD-L1 only,dcb,0.25,0.07550000000000001,0.064
+10,LR: PD-L1 only,dcb,0.3,0.0325,-0.002857142857142836
+10,LR: PD-L1 only,dcb,0.35,-0.0038846153846154585,-0.08000000000000007
+10,LR: PD-L1 only,dcb,0.4,0.010999999999999996,-0.17000000000000004
+10,LR: PD-L1 only,dcb,0.45,0.0037727272727272818,-0.2763636363636363
+10,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+10,LR: PD-L1 only,dcb,0.55,0.0028888888888888853,-0.56
+10,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+10,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+10,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+10,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+10,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+10,LR: PD-L1 only,irae_g2,0.25,0.01633333333333334,0.013999999999999985
+10,LR: PD-L1 only,irae_g2,0.3,-0.006071428571428568,-0.056428571428571495
+10,LR: PD-L1 only,irae_g2,0.35,-0.009538461538461548,-0.13769230769230778
+10,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+10,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+10,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+10,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+10,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+11,Proposed (missing-aware attention),dcb,0.05,0.24981578947368424,0.26105263157894737
+11,Proposed (missing-aware attention),dcb,0.1,0.21200000000000002,0.21999999999999997
+11,Proposed (missing-aware attention),dcb,0.15,0.17170588235294115,0.1741176470588235
+11,Proposed (missing-aware attention),dcb,0.2,0.13687499999999997,0.1225
+11,Proposed (missing-aware attention),dcb,0.25,0.10216666666666666,0.064
+11,Proposed (missing-aware attention),dcb,0.3,0.07335714285714284,-0.002857142857142836
+11,Proposed (missing-aware attention),dcb,0.35,0.05576923076923075,-0.08000000000000007
+11,Proposed (missing-aware attention),dcb,0.4,0.028499999999999984,-0.17000000000000004
+11,Proposed (missing-aware attention),dcb,0.45,0.011727272727272725,-0.2763636363636363
+11,Proposed (missing-aware attention),dcb,0.5,-0.0030000000000000027,-0.40399999999999997
+11,Proposed (missing-aware attention),dcb,0.55,-0.02022222222222224,-0.56
+11,Proposed (missing-aware attention),dcb,0.6,-0.031000000000000055,-0.7550000000000003
+11,Proposed (missing-aware attention),irae_g2,0.05,0.21876315789473685,0.22157894736842104
+11,Proposed (missing-aware attention),irae_g2,0.1,0.1622777777777778,0.17833333333333334
+11,Proposed (missing-aware attention),irae_g2,0.15,0.10594117647058822,0.12999999999999998
+11,Proposed (missing-aware attention),irae_g2,0.2,0.05600000000000001,0.07562500000000003
+11,Proposed (missing-aware attention),irae_g2,0.25,0.022000000000000006,0.013999999999999985
+11,Proposed (missing-aware attention),irae_g2,0.3,-0.0027857142857142803,-0.056428571428571495
+11,Proposed (missing-aware attention),irae_g2,0.35,-0.01953846153846156,-0.13769230769230778
+11,Proposed (missing-aware attention),irae_g2,0.4,-0.025333333333333354,-0.23250000000000004
+11,Proposed (missing-aware attention),irae_g2,0.45,-0.027636363636363633,-0.34454545454545454
+11,Proposed (missing-aware attention),irae_g2,0.5,-0.019999999999999997,-0.47900000000000004
+11,Proposed (missing-aware attention),irae_g2,0.55,-0.014777777777777782,-0.6433333333333335
+11,Proposed (missing-aware attention),irae_g2,0.6,-0.011000000000000005,-0.8487500000000006
+11,LR: all interpretable variables,dcb,0.05,0.26105263157894737,0.26105263157894737
+11,LR: all interpretable variables,dcb,0.1,0.21999999999999997,0.21999999999999997
+11,LR: all interpretable variables,dcb,0.15,0.1741176470588235,0.1741176470588235
+11,LR: all interpretable variables,dcb,0.2,0.12237499999999998,0.1225
+11,LR: all interpretable variables,dcb,0.25,0.08433333333333329,0.064
+11,LR: all interpretable variables,dcb,0.3,0.05728571428571427,-0.002857142857142836
+11,LR: all interpretable variables,dcb,0.35,0.030653846153846143,-0.08000000000000007
+11,LR: all interpretable variables,dcb,0.4,0.005499999999999998,-0.17000000000000004
+11,LR: all interpretable variables,dcb,0.45,0.001090909090909091,-0.2763636363636363
+11,LR: all interpretable variables,dcb,0.5,0.0005,-0.40399999999999997
+11,LR: all interpretable variables,dcb,0.55,0.0,-0.56
+11,LR: all interpretable variables,dcb,0.6,0.0,-0.7550000000000003
+11,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+11,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+11,LR: all interpretable variables,irae_g2,0.15,0.13091176470588234,0.12999999999999998
+11,LR: all interpretable variables,irae_g2,0.2,0.076625,0.07562500000000003
+11,LR: all interpretable variables,irae_g2,0.25,0.02366666666666667,0.013999999999999985
+11,LR: all interpretable variables,irae_g2,0.3,0.014642857142857141,-0.056428571428571495
+11,LR: all interpretable variables,irae_g2,0.35,0.003153846153846153,-0.13769230769230778
+11,LR: all interpretable variables,irae_g2,0.4,0.0006666666666666666,-0.23250000000000004
+11,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+11,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+11,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+11,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+11,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+11,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+11,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+11,LR: PD-L1 only,dcb,0.2,0.10600000000000004,0.1225
+11,LR: PD-L1 only,dcb,0.25,0.01366666666666666,0.064
+11,LR: PD-L1 only,dcb,0.3,-0.043357142857142816,-0.002857142857142836
+11,LR: PD-L1 only,dcb,0.35,-0.029500000000000026,-0.08000000000000007
+11,LR: PD-L1 only,dcb,0.4,-0.05366666666666668,-0.17000000000000004
+11,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+11,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+11,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+11,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+11,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+11,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+11,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+11,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+11,LR: PD-L1 only,irae_g2,0.25,0.011166666666666679,0.013999999999999985
+11,LR: PD-L1 only,irae_g2,0.3,0.0,-0.056428571428571495
+11,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+11,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+11,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+11,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+11,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+11,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+12,Proposed (missing-aware attention),dcb,0.05,0.26105263157894737,0.26105263157894737
+12,Proposed (missing-aware attention),dcb,0.1,0.21999999999999997,0.21999999999999997
+12,Proposed (missing-aware attention),dcb,0.15,0.17370588235294115,0.1741176470588235
+12,Proposed (missing-aware attention),dcb,0.2,0.128125,0.1225
+12,Proposed (missing-aware attention),dcb,0.25,0.09283333333333335,0.064
+12,Proposed (missing-aware attention),dcb,0.3,0.0755,-0.002857142857142836
+12,Proposed (missing-aware attention),dcb,0.35,0.039846153846153844,-0.08000000000000007
+12,Proposed (missing-aware attention),dcb,0.4,0.01783333333333333,-0.17000000000000004
+12,Proposed (missing-aware attention),dcb,0.45,0.003772727272727273,-0.2763636363636363
+12,Proposed (missing-aware attention),dcb,0.5,0.0,-0.40399999999999997
+12,Proposed (missing-aware attention),dcb,0.55,0.0,-0.56
+12,Proposed (missing-aware attention),dcb,0.6,0.0,-0.7550000000000003
+12,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+12,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+12,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+12,Proposed (missing-aware attention),irae_g2,0.2,0.07525000000000001,0.07562500000000003
+12,Proposed (missing-aware attention),irae_g2,0.25,0.01983333333333334,0.013999999999999985
+12,Proposed (missing-aware attention),irae_g2,0.3,-0.026714285714285746,-0.056428571428571495
+12,Proposed (missing-aware attention),irae_g2,0.35,-0.033384615384615415,-0.13769230769230778
+12,Proposed (missing-aware attention),irae_g2,0.4,0.0009999999999999974,-0.23250000000000004
+12,Proposed (missing-aware attention),irae_g2,0.45,0.0016363636363636363,-0.34454545454545454
+12,Proposed (missing-aware attention),irae_g2,0.5,-0.0005,-0.47900000000000004
+12,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+12,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+12,LR: all interpretable variables,dcb,0.05,0.26105263157894737,0.26105263157894737
+12,LR: all interpretable variables,dcb,0.1,0.22038888888888886,0.21999999999999997
+12,LR: all interpretable variables,dcb,0.15,0.17691176470588232,0.1741176470588235
+12,LR: all interpretable variables,dcb,0.2,0.13487500000000002,0.1225
+12,LR: all interpretable variables,dcb,0.25,0.09466666666666668,0.064
+12,LR: all interpretable variables,dcb,0.3,0.062357142857142875,-0.002857142857142836
+12,LR: all interpretable variables,dcb,0.35,0.03526923076923076,-0.08000000000000007
+12,LR: all interpretable variables,dcb,0.4,0.017499999999999988,-0.17000000000000004
+12,LR: all interpretable variables,dcb,0.45,0.014045454545454542,-0.2763636363636363
+12,LR: all interpretable variables,dcb,0.5,0.009000000000000001,-0.40399999999999997
+12,LR: all interpretable variables,dcb,0.55,0.005944444444444443,-0.56
+12,LR: all interpretable variables,dcb,0.6,0.0034999999999999996,-0.7550000000000003
+12,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+12,LR: all interpretable variables,irae_g2,0.1,0.17838888888888887,0.17833333333333334
+12,LR: all interpretable variables,irae_g2,0.15,0.12958823529411762,0.12999999999999998
+12,LR: all interpretable variables,irae_g2,0.2,0.074125,0.07562500000000003
+12,LR: all interpretable variables,irae_g2,0.25,0.02633333333333332,0.013999999999999985
+12,LR: all interpretable variables,irae_g2,0.3,-0.004357142857142865,-0.056428571428571495
+12,LR: all interpretable variables,irae_g2,0.35,-0.02553846153846155,-0.13769230769230778
+12,LR: all interpretable variables,irae_g2,0.4,-0.021666666666666667,-0.23250000000000004
+12,LR: all interpretable variables,irae_g2,0.45,-0.021590909090909084,-0.34454545454545454
+12,LR: all interpretable variables,irae_g2,0.5,-0.013999999999999999,-0.47900000000000004
+12,LR: all interpretable variables,irae_g2,0.55,-0.0034444444444444444,-0.6433333333333335
+12,LR: all interpretable variables,irae_g2,0.6,-0.002750000000000002,-0.8487500000000006
+12,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+12,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+12,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+12,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+12,LR: PD-L1 only,dcb,0.25,0.064,0.064
+12,LR: PD-L1 only,dcb,0.3,0.0,-0.002857142857142836
+12,LR: PD-L1 only,dcb,0.35,0.0,-0.08000000000000007
+12,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+12,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+12,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+12,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+12,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+12,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+12,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+12,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+12,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+12,LR: PD-L1 only,irae_g2,0.25,0.013999999999999985,0.013999999999999985
+12,LR: PD-L1 only,irae_g2,0.3,-0.056428571428571495,-0.056428571428571495
+12,LR: PD-L1 only,irae_g2,0.35,-0.02350000000000002,-0.13769230769230778
+12,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+12,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+12,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+12,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+12,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+13,Proposed (missing-aware attention),dcb,0.05,0.26121052631578945,0.26105263157894737
+13,Proposed (missing-aware attention),dcb,0.1,0.2177222222222222,0.21999999999999997
+13,Proposed (missing-aware attention),dcb,0.15,0.17620588235294118,0.1741176470588235
+13,Proposed (missing-aware attention),dcb,0.2,0.13299999999999998,0.1225
+13,Proposed (missing-aware attention),dcb,0.25,0.10233333333333332,0.064
+13,Proposed (missing-aware attention),dcb,0.3,0.08107142857142857,-0.002857142857142836
+13,Proposed (missing-aware attention),dcb,0.35,0.057230769230769224,-0.08000000000000007
+13,Proposed (missing-aware attention),dcb,0.4,0.04349999999999998,-0.17000000000000004
+13,Proposed (missing-aware attention),dcb,0.45,0.03136363636363636,-0.2763636363636363
+13,Proposed (missing-aware attention),dcb,0.5,0.027499999999999997,-0.40399999999999997
+13,Proposed (missing-aware attention),dcb,0.55,0.02188888888888888,-0.56
+13,Proposed (missing-aware attention),dcb,0.6,0.008499999999999987,-0.7550000000000003
+13,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+13,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+13,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+13,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+13,Proposed (missing-aware attention),irae_g2,0.25,0.00933333333333334,0.013999999999999985
+13,Proposed (missing-aware attention),irae_g2,0.3,-0.00021428571428571427,-0.056428571428571495
+13,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+13,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+13,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+13,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+13,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+13,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+13,LR: all interpretable variables,dcb,0.05,0.26071052631578945,0.26105263157894737
+13,LR: all interpretable variables,dcb,0.1,0.21833333333333332,0.21999999999999997
+13,LR: all interpretable variables,dcb,0.15,0.1769411764705882,0.1741176470588235
+13,LR: all interpretable variables,dcb,0.2,0.142375,0.1225
+13,LR: all interpretable variables,dcb,0.25,0.10833333333333335,0.064
+13,LR: all interpretable variables,dcb,0.3,0.07478571428571427,-0.002857142857142836
+13,LR: all interpretable variables,dcb,0.35,0.05361538461538459,-0.08000000000000007
+13,LR: all interpretable variables,dcb,0.4,0.032,-0.17000000000000004
+13,LR: all interpretable variables,dcb,0.45,0.007227272727272735,-0.2763636363636363
+13,LR: all interpretable variables,dcb,0.5,0.0005000000000000004,-0.40399999999999997
+13,LR: all interpretable variables,dcb,0.55,-0.003722222222222238,-0.56
+13,LR: all interpretable variables,dcb,0.6,-0.00725000000000002,-0.7550000000000003
+13,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+13,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+13,LR: all interpretable variables,irae_g2,0.15,0.13008823529411764,0.12999999999999998
+13,LR: all interpretable variables,irae_g2,0.2,0.072375,0.07562500000000003
+13,LR: all interpretable variables,irae_g2,0.25,0.02750000000000001,0.013999999999999985
+13,LR: all interpretable variables,irae_g2,0.3,0.017285714285714283,-0.056428571428571495
+13,LR: all interpretable variables,irae_g2,0.35,0.003038461538461538,-0.13769230769230778
+13,LR: all interpretable variables,irae_g2,0.4,0.0006666666666666666,-0.23250000000000004
+13,LR: all interpretable variables,irae_g2,0.45,-0.0004090909090909091,-0.34454545454545454
+13,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+13,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+13,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+13,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+13,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+13,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+13,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+13,LR: PD-L1 only,dcb,0.25,0.07300000000000001,0.064
+13,LR: PD-L1 only,dcb,0.3,0.02971428571428572,-0.002857142857142836
+13,LR: PD-L1 only,dcb,0.35,0.02480769230769228,-0.08000000000000007
+13,LR: PD-L1 only,dcb,0.4,0.011666666666666659,-0.17000000000000004
+13,LR: PD-L1 only,dcb,0.45,0.004500000000000011,-0.2763636363636363
+13,LR: PD-L1 only,dcb,0.5,-0.0010000000000000009,-0.40399999999999997
+13,LR: PD-L1 only,dcb,0.55,0.0024999999999999953,-0.56
+13,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+13,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+13,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+13,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+13,LR: PD-L1 only,irae_g2,0.2,0.055749999999999994,0.07562500000000003
+13,LR: PD-L1 only,irae_g2,0.25,0.011333333333333348,0.013999999999999985
+13,LR: PD-L1 only,irae_g2,0.3,-0.004357142857142858,-0.056428571428571495
+13,LR: PD-L1 only,irae_g2,0.35,-0.002769230769230772,-0.13769230769230778
+13,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+13,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+13,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+13,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+13,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+14,Proposed (missing-aware attention),dcb,0.05,0.261,0.26105263157894737
+14,Proposed (missing-aware attention),dcb,0.1,0.2192222222222222,0.21999999999999997
+14,Proposed (missing-aware attention),dcb,0.15,0.18008823529411766,0.1741176470588235
+14,Proposed (missing-aware attention),dcb,0.2,0.14,0.1225
+14,Proposed (missing-aware attention),dcb,0.25,0.099,0.064
+14,Proposed (missing-aware attention),dcb,0.3,0.065,-0.002857142857142836
+14,Proposed (missing-aware attention),dcb,0.35,0.03642307692307689,-0.08000000000000007
+14,Proposed (missing-aware attention),dcb,0.4,0.018833333333333313,-0.17000000000000004
+14,Proposed (missing-aware attention),dcb,0.45,0.006000000000000005,-0.2763636363636363
+14,Proposed (missing-aware attention),dcb,0.5,-0.0025000000000000022,-0.40399999999999997
+14,Proposed (missing-aware attention),dcb,0.55,-0.00983333333333334,-0.56
+14,Proposed (missing-aware attention),dcb,0.6,-0.010000000000000016,-0.7550000000000003
+14,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+14,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+14,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+14,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+14,Proposed (missing-aware attention),irae_g2,0.25,0.0,0.013999999999999985
+14,Proposed (missing-aware attention),irae_g2,0.3,0.0,-0.056428571428571495
+14,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+14,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+14,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+14,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+14,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+14,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+14,LR: all interpretable variables,dcb,0.05,0.26105263157894737,0.26105263157894737
+14,LR: all interpretable variables,dcb,0.1,0.2201111111111111,0.21999999999999997
+14,LR: all interpretable variables,dcb,0.15,0.1774411764705882,0.1741176470588235
+14,LR: all interpretable variables,dcb,0.2,0.13399999999999998,0.1225
+14,LR: all interpretable variables,dcb,0.25,0.1,0.064
+14,LR: all interpretable variables,dcb,0.3,0.07342857142857143,-0.002857142857142836
+14,LR: all interpretable variables,dcb,0.35,0.05530769230769225,-0.08000000000000007
+14,LR: all interpretable variables,dcb,0.4,0.04583333333333334,-0.17000000000000004
+14,LR: all interpretable variables,dcb,0.45,0.020772727272727276,-0.2763636363636363
+14,LR: all interpretable variables,dcb,0.5,0.012000000000000004,-0.40399999999999997
+14,LR: all interpretable variables,dcb,0.55,0.011,-0.56
+14,LR: all interpretable variables,dcb,0.6,0.009999999999999998,-0.7550000000000003
+14,LR: all interpretable variables,irae_g2,0.05,0.21678947368421053,0.22157894736842104
+14,LR: all interpretable variables,irae_g2,0.1,0.15450000000000003,0.17833333333333334
+14,LR: all interpretable variables,irae_g2,0.15,0.0904705882352941,0.12999999999999998
+14,LR: all interpretable variables,irae_g2,0.2,0.03824999999999999,0.07562500000000003
+14,LR: all interpretable variables,irae_g2,0.25,0.01633333333333334,0.013999999999999985
+14,LR: all interpretable variables,irae_g2,0.3,-0.00021428571428571547,-0.056428571428571495
+14,LR: all interpretable variables,irae_g2,0.35,-0.005730769230769234,-0.13769230769230778
+14,LR: all interpretable variables,irae_g2,0.4,-0.006333333333333337,-0.23250000000000004
+14,LR: all interpretable variables,irae_g2,0.45,-0.006136363636363634,-0.34454545454545454
+14,LR: all interpretable variables,irae_g2,0.5,-0.0045,-0.47900000000000004
+14,LR: all interpretable variables,irae_g2,0.55,-0.0023888888888888896,-0.6433333333333335
+14,LR: all interpretable variables,irae_g2,0.6,-0.0027500000000000016,-0.8487500000000006
+14,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+14,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+14,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+14,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+14,LR: PD-L1 only,dcb,0.25,0.064,0.064
+14,LR: PD-L1 only,dcb,0.3,-0.002857142857142836,-0.002857142857142836
+14,LR: PD-L1 only,dcb,0.35,0.026538461538461518,-0.08000000000000007
+14,LR: PD-L1 only,dcb,0.4,0.003999999999999999,-0.17000000000000004
+14,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+14,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+14,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+14,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+14,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+14,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+14,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+14,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+14,LR: PD-L1 only,irae_g2,0.25,0.0,0.013999999999999985
+14,LR: PD-L1 only,irae_g2,0.3,0.0,-0.056428571428571495
+14,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+14,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+14,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+14,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+14,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+14,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+15,Proposed (missing-aware attention),dcb,0.05,0.2613684210526316,0.26105263157894737
+15,Proposed (missing-aware attention),dcb,0.1,0.22244444444444444,0.21999999999999997
+15,Proposed (missing-aware attention),dcb,0.15,0.17870588235294116,0.1741176470588235
+15,Proposed (missing-aware attention),dcb,0.2,0.136125,0.1225
+15,Proposed (missing-aware attention),dcb,0.25,0.09616666666666668,0.064
+15,Proposed (missing-aware attention),dcb,0.3,0.07007142857142858,-0.002857142857142836
+15,Proposed (missing-aware attention),dcb,0.35,0.05149999999999999,-0.08000000000000007
+15,Proposed (missing-aware attention),dcb,0.4,0.03616666666666666,-0.17000000000000004
+15,Proposed (missing-aware attention),dcb,0.45,0.0215,-0.2763636363636363
+15,Proposed (missing-aware attention),dcb,0.5,0.0085,-0.40399999999999997
+15,Proposed (missing-aware attention),dcb,0.55,-0.0028888888888888905,-0.56
+15,Proposed (missing-aware attention),dcb,0.6,-0.0050000000000000044,-0.7550000000000003
+15,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+15,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+15,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+15,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+15,Proposed (missing-aware attention),irae_g2,0.25,-0.010666666666666658,0.013999999999999985
+15,Proposed (missing-aware attention),irae_g2,0.3,-0.009428571428571427,-0.056428571428571495
+15,Proposed (missing-aware attention),irae_g2,0.35,-0.0008076923076923079,-0.13769230769230778
+15,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+15,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+15,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+15,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+15,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+15,LR: all interpretable variables,dcb,0.05,0.2611315789473684,0.26105263157894737
+15,LR: all interpretable variables,dcb,0.1,0.21994444444444444,0.21999999999999997
+15,LR: all interpretable variables,dcb,0.15,0.18382352941176466,0.1741176470588235
+15,LR: all interpretable variables,dcb,0.2,0.13787500000000003,0.1225
+15,LR: all interpretable variables,dcb,0.25,0.09433333333333331,0.064
+15,LR: all interpretable variables,dcb,0.3,0.054642857142857146,-0.002857142857142836
+15,LR: all interpretable variables,dcb,0.35,0.02496153846153845,-0.08000000000000007
+15,LR: all interpretable variables,dcb,0.4,0.01583333333333333,-0.17000000000000004
+15,LR: all interpretable variables,dcb,0.45,0.0076363636363636364,-0.2763636363636363
+15,LR: all interpretable variables,dcb,0.5,-0.0019999999999999996,-0.40399999999999997
+15,LR: all interpretable variables,dcb,0.55,-0.0002222222222222224,-0.56
+15,LR: all interpretable variables,dcb,0.6,-0.0007500000000000002,-0.7550000000000003
+15,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+15,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+15,LR: all interpretable variables,irae_g2,0.15,0.12908823529411764,0.12999999999999998
+15,LR: all interpretable variables,irae_g2,0.2,0.052875000000000005,0.07562500000000003
+15,LR: all interpretable variables,irae_g2,0.25,-0.010499999999999995,0.013999999999999985
+15,LR: all interpretable variables,irae_g2,0.3,-0.013571428571428575,-0.056428571428571495
+15,LR: all interpretable variables,irae_g2,0.35,-0.004384615384615387,-0.13769230769230778
+15,LR: all interpretable variables,irae_g2,0.4,-0.0006666666666666668,-0.23250000000000004
+15,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+15,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+15,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+15,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+15,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+15,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+15,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+15,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+15,LR: PD-L1 only,dcb,0.25,0.064,0.064
+15,LR: PD-L1 only,dcb,0.3,0.0,-0.002857142857142836
+15,LR: PD-L1 only,dcb,0.35,0.0,-0.08000000000000007
+15,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+15,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+15,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+15,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+15,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+15,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+15,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+15,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+15,LR: PD-L1 only,irae_g2,0.2,0.06425,0.07562500000000003
+15,LR: PD-L1 only,irae_g2,0.25,-0.0038333333333333275,0.013999999999999985
+15,LR: PD-L1 only,irae_g2,0.3,0.0,-0.056428571428571495
+15,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+15,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+15,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+15,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+15,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+15,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+16,Proposed (missing-aware attention),dcb,0.05,0.26110526315789473,0.26105263157894737
+16,Proposed (missing-aware attention),dcb,0.1,0.22155555555555556,0.21999999999999997
+16,Proposed (missing-aware attention),dcb,0.15,0.17882352941176466,0.1741176470588235
+16,Proposed (missing-aware attention),dcb,0.2,0.137,0.1225
+16,Proposed (missing-aware attention),dcb,0.25,0.10283333333333333,0.064
+16,Proposed (missing-aware attention),dcb,0.3,0.08349999999999999,-0.002857142857142836
+16,Proposed (missing-aware attention),dcb,0.35,0.06357692307692306,-0.08000000000000007
+16,Proposed (missing-aware attention),dcb,0.4,0.041499999999999995,-0.17000000000000004
+16,Proposed (missing-aware attention),dcb,0.45,0.02236363636363637,-0.2763636363636363
+16,Proposed (missing-aware attention),dcb,0.5,0.020499999999999997,-0.40399999999999997
+16,Proposed (missing-aware attention),dcb,0.55,0.01788888888888888,-0.56
+16,Proposed (missing-aware attention),dcb,0.6,0.015249999999999994,-0.7550000000000003
+16,Proposed (missing-aware attention),irae_g2,0.05,0.22107894736842104,0.22157894736842104
+16,Proposed (missing-aware attention),irae_g2,0.1,0.17844444444444446,0.17833333333333334
+16,Proposed (missing-aware attention),irae_g2,0.15,0.12476470588235293,0.12999999999999998
+16,Proposed (missing-aware attention),irae_g2,0.2,0.06512500000000002,0.07562500000000003
+16,Proposed (missing-aware attention),irae_g2,0.25,0.034666666666666665,0.013999999999999985
+16,Proposed (missing-aware attention),irae_g2,0.3,0.010499999999999995,-0.056428571428571495
+16,Proposed (missing-aware attention),irae_g2,0.35,0.0013461538461538372,-0.13769230769230778
+16,Proposed (missing-aware attention),irae_g2,0.4,-0.009500000000000001,-0.23250000000000004
+16,Proposed (missing-aware attention),irae_g2,0.45,-0.0077272727272727285,-0.34454545454545454
+16,Proposed (missing-aware attention),irae_g2,0.5,-0.008,-0.47900000000000004
+16,Proposed (missing-aware attention),irae_g2,0.55,-0.0052222222222222245,-0.6433333333333335
+16,Proposed (missing-aware attention),irae_g2,0.6,-0.004500000000000003,-0.8487500000000006
+16,LR: all interpretable variables,dcb,0.05,0.2606578947368421,0.26105263157894737
+16,LR: all interpretable variables,dcb,0.1,0.21999999999999997,0.21999999999999997
+16,LR: all interpretable variables,dcb,0.15,0.17829411764705877,0.1741176470588235
+16,LR: all interpretable variables,dcb,0.2,0.14225000000000002,0.1225
+16,LR: all interpretable variables,dcb,0.25,0.11116666666666666,0.064
+16,LR: all interpretable variables,dcb,0.3,0.08685714285714287,-0.002857142857142836
+16,LR: all interpretable variables,dcb,0.35,0.06157692307692306,-0.08000000000000007
+16,LR: all interpretable variables,dcb,0.4,0.04233333333333332,-0.17000000000000004
+16,LR: all interpretable variables,dcb,0.45,0.02445454545454545,-0.2763636363636363
+16,LR: all interpretable variables,dcb,0.5,0.016,-0.40399999999999997
+16,LR: all interpretable variables,dcb,0.55,0.003166666666666658,-0.56
+16,LR: all interpretable variables,dcb,0.6,0.0007499999999999903,-0.7550000000000003
+16,LR: all interpretable variables,irae_g2,0.05,0.22160526315789475,0.22157894736842104
+16,LR: all interpretable variables,irae_g2,0.1,0.17488888888888887,0.17833333333333334
+16,LR: all interpretable variables,irae_g2,0.15,0.12632352941176467,0.12999999999999998
+16,LR: all interpretable variables,irae_g2,0.2,0.071125,0.07562500000000003
+16,LR: all interpretable variables,irae_g2,0.25,0.032500000000000015,0.013999999999999985
+16,LR: all interpretable variables,irae_g2,0.3,0.013642857142857151,-0.056428571428571495
+16,LR: all interpretable variables,irae_g2,0.35,0.004307692307692297,-0.13769230769230778
+16,LR: all interpretable variables,irae_g2,0.4,-0.0015000000000000013,-0.23250000000000004
+16,LR: all interpretable variables,irae_g2,0.45,-0.002,-0.34454545454545454
+16,LR: all interpretable variables,irae_g2,0.5,-0.0045000000000000005,-0.47900000000000004
+16,LR: all interpretable variables,irae_g2,0.55,0.0002777777777777776,-0.6433333333333335
+16,LR: all interpretable variables,irae_g2,0.6,-0.0002500000000000002,-0.8487500000000006
+16,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+16,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+16,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+16,LR: PD-L1 only,dcb,0.2,0.114125,0.1225
+16,LR: PD-L1 only,dcb,0.25,0.07016666666666668,0.064
+16,LR: PD-L1 only,dcb,0.3,0.031071428571428583,-0.002857142857142836
+16,LR: PD-L1 only,dcb,0.35,0.026884615384615368,-0.08000000000000007
+16,LR: PD-L1 only,dcb,0.4,0.011666666666666659,-0.17000000000000004
+16,LR: PD-L1 only,dcb,0.45,0.0037727272727272818,-0.2763636363636363
+16,LR: PD-L1 only,dcb,0.5,-0.0025000000000000022,-0.40399999999999997
+16,LR: PD-L1 only,dcb,0.55,-0.0017222222222222291,-0.56
+16,LR: PD-L1 only,dcb,0.6,-0.0010000000000000035,-0.7550000000000003
+16,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+16,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+16,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+16,LR: PD-L1 only,irae_g2,0.2,0.046875000000000014,0.07562500000000003
+16,LR: PD-L1 only,irae_g2,0.25,0.00683333333333333,0.013999999999999985
+16,LR: PD-L1 only,irae_g2,0.3,-0.01592857142857143,-0.056428571428571495
+16,LR: PD-L1 only,irae_g2,0.35,-0.03719230769230772,-0.13769230769230778
+16,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+16,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+16,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+16,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+16,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+17,Proposed (missing-aware attention),dcb,0.05,0.26105263157894737,0.26105263157894737
+17,Proposed (missing-aware attention),dcb,0.1,0.22133333333333333,0.21999999999999997
+17,Proposed (missing-aware attention),dcb,0.15,0.17614705882352943,0.1741176470588235
+17,Proposed (missing-aware attention),dcb,0.2,0.13199999999999998,0.1225
+17,Proposed (missing-aware attention),dcb,0.25,0.09116666666666666,0.064
+17,Proposed (missing-aware attention),dcb,0.3,0.06642857142857143,-0.002857142857142836
+17,Proposed (missing-aware attention),dcb,0.35,0.051884615384615376,-0.08000000000000007
+17,Proposed (missing-aware attention),dcb,0.4,0.026333333333333334,-0.17000000000000004
+17,Proposed (missing-aware attention),dcb,0.45,0.02068181818181818,-0.2763636363636363
+17,Proposed (missing-aware attention),dcb,0.5,0.0075000000000000015,-0.40399999999999997
+17,Proposed (missing-aware attention),dcb,0.55,0.002999999999999999,-0.56
+17,Proposed (missing-aware attention),dcb,0.6,-0.0002500000000000011,-0.7550000000000003
+17,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+17,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+17,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+17,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+17,Proposed (missing-aware attention),irae_g2,0.25,0.01983333333333334,0.013999999999999985
+17,Proposed (missing-aware attention),irae_g2,0.3,-0.013285714285714276,-0.056428571428571495
+17,Proposed (missing-aware attention),irae_g2,0.35,-3.8461538461538646e-05,-0.13769230769230778
+17,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+17,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+17,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+17,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+17,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+17,LR: all interpretable variables,dcb,0.05,0.261078947368421,0.26105263157894737
+17,LR: all interpretable variables,dcb,0.1,0.2187777777777778,0.21999999999999997
+17,LR: all interpretable variables,dcb,0.15,0.17817647058823527,0.1741176470588235
+17,LR: all interpretable variables,dcb,0.2,0.13487500000000002,0.1225
+17,LR: all interpretable variables,dcb,0.25,0.10966666666666668,0.064
+17,LR: all interpretable variables,dcb,0.3,0.08092857142857143,-0.002857142857142836
+17,LR: all interpretable variables,dcb,0.35,0.05357692307692308,-0.08000000000000007
+17,LR: all interpretable variables,dcb,0.4,0.029666666666666664,-0.17000000000000004
+17,LR: all interpretable variables,dcb,0.45,0.012136363636363638,-0.2763636363636363
+17,LR: all interpretable variables,dcb,0.5,0.0075,-0.40399999999999997
+17,LR: all interpretable variables,dcb,0.55,0.0014444444444444435,-0.56
+17,LR: all interpretable variables,dcb,0.6,0.0002499999999999998,-0.7550000000000003
+17,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+17,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+17,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+17,LR: all interpretable variables,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+17,LR: all interpretable variables,irae_g2,0.25,0.013999999999999985,0.013999999999999985
+17,LR: all interpretable variables,irae_g2,0.3,-0.036928571428571436,-0.056428571428571495
+17,LR: all interpretable variables,irae_g2,0.35,0.0,-0.13769230769230778
+17,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+17,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+17,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+17,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+17,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+17,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+17,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+17,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+17,LR: PD-L1 only,dcb,0.2,0.110875,0.1225
+17,LR: PD-L1 only,dcb,0.25,0.0645,0.064
+17,LR: PD-L1 only,dcb,0.3,0.03907142857142856,-0.002857142857142836
+17,LR: PD-L1 only,dcb,0.35,0.023461538461538457,-0.08000000000000007
+17,LR: PD-L1 only,dcb,0.4,0.015499999999999993,-0.17000000000000004
+17,LR: PD-L1 only,dcb,0.45,0.010090909090909091,-0.2763636363636363
+17,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+17,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+17,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+17,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+17,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+17,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+17,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+17,LR: PD-L1 only,irae_g2,0.25,0.013999999999999985,0.013999999999999985
+17,LR: PD-L1 only,irae_g2,0.3,-0.01992857142857142,-0.056428571428571495
+17,LR: PD-L1 only,irae_g2,0.35,0.0,-0.13769230769230778
+17,LR: PD-L1 only,irae_g2,0.4,0.0,-0.23250000000000004
+17,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+17,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+17,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+17,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+18,Proposed (missing-aware attention),dcb,0.05,0.261078947368421,0.26105263157894737
+18,Proposed (missing-aware attention),dcb,0.1,0.22038888888888888,0.21999999999999997
+18,Proposed (missing-aware attention),dcb,0.15,0.17967647058823524,0.1741176470588235
+18,Proposed (missing-aware attention),dcb,0.2,0.13987500000000003,0.1225
+18,Proposed (missing-aware attention),dcb,0.25,0.09633333333333334,0.064
+18,Proposed (missing-aware attention),dcb,0.3,0.07285714285714286,-0.002857142857142836
+18,Proposed (missing-aware attention),dcb,0.35,0.06046153846153845,-0.08000000000000007
+18,Proposed (missing-aware attention),dcb,0.4,0.03883333333333333,-0.17000000000000004
+18,Proposed (missing-aware attention),dcb,0.45,0.017136363636363637,-0.2763636363636363
+18,Proposed (missing-aware attention),dcb,0.5,0.004,-0.40399999999999997
+18,Proposed (missing-aware attention),dcb,0.55,0.0004444444444444439,-0.56
+18,Proposed (missing-aware attention),dcb,0.6,0.0005,-0.7550000000000003
+18,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+18,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+18,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+18,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+18,Proposed (missing-aware attention),irae_g2,0.25,-0.0006666666666666666,0.013999999999999985
+18,Proposed (missing-aware attention),irae_g2,0.3,0.0,-0.056428571428571495
+18,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+18,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+18,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+18,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+18,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+18,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+18,LR: all interpretable variables,dcb,0.05,0.2611315789473684,0.26105263157894737
+18,LR: all interpretable variables,dcb,0.1,0.22055555555555553,0.21999999999999997
+18,LR: all interpretable variables,dcb,0.15,0.17749999999999994,0.1741176470588235
+18,LR: all interpretable variables,dcb,0.2,0.13262500000000002,0.1225
+18,LR: all interpretable variables,dcb,0.25,0.10233333333333335,0.064
+18,LR: all interpretable variables,dcb,0.3,0.06171428571428572,-0.002857142857142836
+18,LR: all interpretable variables,dcb,0.35,0.04165384615384614,-0.08000000000000007
+18,LR: all interpretable variables,dcb,0.4,0.01999999999999999,-0.17000000000000004
+18,LR: all interpretable variables,dcb,0.45,0.01031818181818182,-0.2763636363636363
+18,LR: all interpretable variables,dcb,0.5,0.008,-0.40399999999999997
+18,LR: all interpretable variables,dcb,0.55,0.0010555555555555552,-0.56
+18,LR: all interpretable variables,dcb,0.6,0.001,-0.7550000000000003
+18,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+18,LR: all interpretable variables,irae_g2,0.1,0.17144444444444445,0.17833333333333334
+18,LR: all interpretable variables,irae_g2,0.15,0.10094117647058823,0.12999999999999998
+18,LR: all interpretable variables,irae_g2,0.2,0.03325,0.07562500000000003
+18,LR: all interpretable variables,irae_g2,0.25,-0.020333333333333342,0.013999999999999985
+18,LR: all interpretable variables,irae_g2,0.3,-0.03042857142857143,-0.056428571428571495
+18,LR: all interpretable variables,irae_g2,0.35,-0.016807692307692315,-0.13769230769230778
+18,LR: all interpretable variables,irae_g2,0.4,-0.007333333333333334,-0.23250000000000004
+18,LR: all interpretable variables,irae_g2,0.45,-0.004227272727272727,-0.34454545454545454
+18,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+18,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+18,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+18,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+18,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+18,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+18,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+18,LR: PD-L1 only,dcb,0.25,0.064,0.064
+18,LR: PD-L1 only,dcb,0.3,-0.03692857142857142,-0.002857142857142836
+18,LR: PD-L1 only,dcb,0.35,0.0,-0.08000000000000007
+18,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+18,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+18,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+18,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+18,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+18,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+18,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+18,LR: PD-L1 only,irae_g2,0.15,0.10261764705882352,0.12999999999999998
+18,LR: PD-L1 only,irae_g2,0.2,0.05437500000000001,0.07562500000000003
+18,LR: PD-L1 only,irae_g2,0.25,0.009499999999999995,0.013999999999999985
+18,LR: PD-L1 only,irae_g2,0.3,-0.0040000000000000036,-0.056428571428571495
+18,LR: PD-L1 only,irae_g2,0.35,-0.012884615384615387,-0.13769230769230778
+18,LR: PD-L1 only,irae_g2,0.4,-0.003666666666666666,-0.23250000000000004
+18,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+18,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+18,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+18,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006
+19,Proposed (missing-aware attention),dcb,0.05,0.2611578947368421,0.26105263157894737
+19,Proposed (missing-aware attention),dcb,0.1,0.2206111111111111,0.21999999999999997
+19,Proposed (missing-aware attention),dcb,0.15,0.17826470588235288,0.1741176470588235
+19,Proposed (missing-aware attention),dcb,0.2,0.14250000000000002,0.1225
+19,Proposed (missing-aware attention),dcb,0.25,0.0955,0.064
+19,Proposed (missing-aware attention),dcb,0.3,0.06707142857142857,-0.002857142857142836
+19,Proposed (missing-aware attention),dcb,0.35,0.04857692307692306,-0.08000000000000007
+19,Proposed (missing-aware attention),dcb,0.4,0.022999999999999993,-0.17000000000000004
+19,Proposed (missing-aware attention),dcb,0.45,0.006727272727272728,-0.2763636363636363
+19,Proposed (missing-aware attention),dcb,0.5,0.0005000000000000004,-0.40399999999999997
+19,Proposed (missing-aware attention),dcb,0.55,0.0008888888888888888,-0.56
+19,Proposed (missing-aware attention),dcb,0.6,0.0005,-0.7550000000000003
+19,Proposed (missing-aware attention),irae_g2,0.05,0.22157894736842104,0.22157894736842104
+19,Proposed (missing-aware attention),irae_g2,0.1,0.17833333333333334,0.17833333333333334
+19,Proposed (missing-aware attention),irae_g2,0.15,0.12999999999999998,0.12999999999999998
+19,Proposed (missing-aware attention),irae_g2,0.2,0.07562500000000003,0.07562500000000003
+19,Proposed (missing-aware attention),irae_g2,0.25,0.013499999999999984,0.013999999999999985
+19,Proposed (missing-aware attention),irae_g2,0.3,0.0018571428571428489,-0.056428571428571495
+19,Proposed (missing-aware attention),irae_g2,0.35,0.0,-0.13769230769230778
+19,Proposed (missing-aware attention),irae_g2,0.4,0.0,-0.23250000000000004
+19,Proposed (missing-aware attention),irae_g2,0.45,0.0,-0.34454545454545454
+19,Proposed (missing-aware attention),irae_g2,0.5,0.0,-0.47900000000000004
+19,Proposed (missing-aware attention),irae_g2,0.55,0.0,-0.6433333333333335
+19,Proposed (missing-aware attention),irae_g2,0.6,0.0,-0.8487500000000006
+19,LR: all interpretable variables,dcb,0.05,0.2551052631578947,0.26105263157894737
+19,LR: all interpretable variables,dcb,0.1,0.20805555555555555,0.21999999999999997
+19,LR: all interpretable variables,dcb,0.15,0.16402941176470587,0.1741176470588235
+19,LR: all interpretable variables,dcb,0.2,0.12525,0.1225
+19,LR: all interpretable variables,dcb,0.25,0.09883333333333334,0.064
+19,LR: all interpretable variables,dcb,0.3,0.06899999999999999,-0.002857142857142836
+19,LR: all interpretable variables,dcb,0.35,0.04476923076923073,-0.08000000000000007
+19,LR: all interpretable variables,dcb,0.4,0.017833333333333326,-0.17000000000000004
+19,LR: all interpretable variables,dcb,0.45,0.00172727272727273,-0.2763636363636363
+19,LR: all interpretable variables,dcb,0.5,-0.012999999999999998,-0.40399999999999997
+19,LR: all interpretable variables,dcb,0.55,-0.017388888888888912,-0.56
+19,LR: all interpretable variables,dcb,0.6,-0.034750000000000045,-0.7550000000000003
+19,LR: all interpretable variables,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+19,LR: all interpretable variables,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+19,LR: all interpretable variables,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+19,LR: all interpretable variables,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+19,LR: all interpretable variables,irae_g2,0.25,0.013166666666666688,0.013999999999999985
+19,LR: all interpretable variables,irae_g2,0.3,0.01735714285714285,-0.056428571428571495
+19,LR: all interpretable variables,irae_g2,0.35,-3.8461538461538646e-05,-0.13769230769230778
+19,LR: all interpretable variables,irae_g2,0.4,0.0,-0.23250000000000004
+19,LR: all interpretable variables,irae_g2,0.45,0.0,-0.34454545454545454
+19,LR: all interpretable variables,irae_g2,0.5,0.0,-0.47900000000000004
+19,LR: all interpretable variables,irae_g2,0.55,0.0,-0.6433333333333335
+19,LR: all interpretable variables,irae_g2,0.6,0.0,-0.8487500000000006
+19,LR: PD-L1 only,dcb,0.05,0.26105263157894737,0.26105263157894737
+19,LR: PD-L1 only,dcb,0.1,0.21999999999999997,0.21999999999999997
+19,LR: PD-L1 only,dcb,0.15,0.1741176470588235,0.1741176470588235
+19,LR: PD-L1 only,dcb,0.2,0.1225,0.1225
+19,LR: PD-L1 only,dcb,0.25,0.064,0.064
+19,LR: PD-L1 only,dcb,0.3,0.032857142857142856,-0.002857142857142836
+19,LR: PD-L1 only,dcb,0.35,0.0,-0.08000000000000007
+19,LR: PD-L1 only,dcb,0.4,0.0,-0.17000000000000004
+19,LR: PD-L1 only,dcb,0.45,0.0,-0.2763636363636363
+19,LR: PD-L1 only,dcb,0.5,0.0,-0.40399999999999997
+19,LR: PD-L1 only,dcb,0.55,0.0,-0.56
+19,LR: PD-L1 only,dcb,0.6,0.0,-0.7550000000000003
+19,LR: PD-L1 only,irae_g2,0.05,0.22157894736842104,0.22157894736842104
+19,LR: PD-L1 only,irae_g2,0.1,0.17833333333333334,0.17833333333333334
+19,LR: PD-L1 only,irae_g2,0.15,0.12999999999999998,0.12999999999999998
+19,LR: PD-L1 only,irae_g2,0.2,0.07562500000000003,0.07562500000000003
+19,LR: PD-L1 only,irae_g2,0.25,0.00816666666666667,0.013999999999999985
+19,LR: PD-L1 only,irae_g2,0.3,-0.01592857142857143,-0.056428571428571495
+19,LR: PD-L1 only,irae_g2,0.35,-0.03719230769230772,-0.13769230769230778
+19,LR: PD-L1 only,irae_g2,0.4,-0.06200000000000003,-0.23250000000000004
+19,LR: PD-L1 only,irae_g2,0.45,0.0,-0.34454545454545454
+19,LR: PD-L1 only,irae_g2,0.5,0.0,-0.47900000000000004
+19,LR: PD-L1 only,irae_g2,0.55,0.0,-0.6433333333333335
+19,LR: PD-L1 only,irae_g2,0.6,0.0,-0.8487500000000006

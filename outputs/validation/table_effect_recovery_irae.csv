@@ -1,0 +1,6 @@
+Predictor (standardised),Designed sign,Odds ratio per SD,95% CI
+chemo_io,+,1.284,1.25 to 1.31
+autoimmune_history,+,1.236,1.21 to 1.26
+pdl1_tps,+ (via shared U_imm),1.147,1.12 to 1.18
+log_til,+ (via shared U_imm),1.231,1.20 to 1.26
+age,0,1.016,0.99 to 1.04

@@ -1,0 +1,13 @@
+Variable,Missing (n),Missing (%)
+age,9,1.8
+sex,0,0.0
+race,113,22.4
+stage,4,0.8
+t_num,0,0.0
+n_num,6,1.2
+m_cat,4,0.8
+laterality,20,4.0
+residual_disease,64,12.7
+prior_malignancy,1,0.2
+site,264,52.4
+os_days,6,1.2

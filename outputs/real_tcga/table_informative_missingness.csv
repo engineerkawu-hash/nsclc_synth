@@ -1,0 +1,5 @@
+Variable,Deaths when missing (%),Deaths when recorded (%),Fisher p
+stage,50.0,43.6,1.0
+residual_disease,40.6,44.1,0.6861
+site,45.5,41.7,0.4188
+race,39.8,44.8,0.3895

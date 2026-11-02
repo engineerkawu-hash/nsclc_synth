@@ -1,0 +1,11 @@
+Characteristic,Synthetic (%),Published (%),SMD,Within |SMD| < 0.1,Source
+Male,61.7,70.8,-0.194,No,"Mok et al. (2019): 902/1,274"
+Male,61.7,49.3,0.251,No,Hellmann et al. (2018): 37/75
+Non-squamous histology,70.0,78.7,-0.2,No,Hellmann et al. (2018): 59/75
+Never smoker,15.2,20.0,-0.126,No,Hellmann et al. (2018): 15/75
+PD-L1 TPS < 1%,41.1,48.2,-0.144,No,X. Yang et al. (2021): 424/879
+PD-L1 TPS 1–49%,30.8,30.3,0.012,Yes,X. Yang et al. (2021): 266/879
+PD-L1 TPS ≥ 50%,28.1,28.0,0.002,Yes,"X. Yang et al. (2021), EGFR/ALK-negative"
+Durable clinical benefit,29.9,31.0,-0.025,Yes,Rizvi et al. (2018): midpoint of 25.1–38.6%
+Any-grade irAE,43.3,42.8,0.011,Yes,Ksienski et al. (2019): 116/271
+Treatment interruption / irAE grade ≥ 2,25.0,20.7,0.102,No,Ksienski et al. (2019): 56/271

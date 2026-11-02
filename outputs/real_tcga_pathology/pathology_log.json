@@ -1,0 +1,13 @@
+{
+  "model": "Phikon (ViT-B/16, iBOT, Filiot et al. 2023), owkin/phikon",
+  "device": "cuda",
+  "slides": 30,
+  "patches_total": 29739,
+  "embedding_dim": 768,
+  "failed_slides": 0,
+  "nn_slide_accuracy": 0.989,
+  "within_cos": 0.6411362290382385,
+  "between_cos": 0.12350116670131683,
+  "participation_ratio": 30.260486602783203,
+  "slide_level_mean_cos": 0.1954844892024994
+}

@@ -1,0 +1,5 @@
+patient_id,p_benefit,lo90,hi90,width,band,set,true_probability,outcome,n_modalities,display
+SYN900001-01183,0.23774543,0.14131814,0.24013457,0.098816425,low,{no benefit},0.058924744656965525,0,3,Prediction: 24% benefit (90% interval 14–24%); uncertainty: low; prediction set: {no benefit}
+SYN900001-01013,0.24917044,0.12989524,0.25825572,0.12836048,moderate,"{benefit, no benefit}",0.07107817584577543,0,3,"Prediction: 25% benefit (90% interval 13–26%); uncertainty: moderate; prediction set: {benefit, no benefit}"
+SYN900001-00981,0.36930844,0.2814231,0.5621145,0.2806914,high,"{benefit, no benefit}",0.20070436906051697,0,3,"Prediction: 37% benefit (90% interval 28–56%); uncertainty: high; prediction set: {benefit, no benefit}"
+SYN900001-00685,0.22419569,0.1437571,0.37805212,0.23429501,high,{no benefit},0.24069168379788813,0,2,Prediction: 22% benefit (90% interval 14–38%); uncertainty: high; prediction set: {no benefit}

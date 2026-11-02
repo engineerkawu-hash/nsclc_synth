@@ -1,0 +1,17 @@
+Quantity,Target range,Source,"Synthetic v2 (n=50,000)",Within target,v2 cohort n=300 (seed 42),95% range over 200 cohorts of n=300,"Previous v1 cohort (thesis Tables 4.1, 4.3)",v1 within target
+Median age (years),63 to 66,Mok et al. 2019 (median 63); Hellmann et al. 2018 (median 66),65.0,Yes,65.0,64.00 to 66.00,,
+Male (%),49 to 71,Hellmann et al. 2018 (49%); Mok et al. 2019 (70.8%),61.68,Yes,63.0,56.67 to 66.67,56.7,Yes
+LUAD / non-squamous (%),65 to 80,Hellmann et al. 2018 (79% non-squamous); lower bound assumption,70.01,Yes,70.67,65.33 to 75.01,62.7,No
+Never smoker (%),10 to 20,Hellmann et al. 2018 (20%); lower bound assumption,15.2,Yes,16.33,11.32 to 19.00,12.7,Yes
+PD-L1 TPS <1% (%),33 to 50,Hellmann et al. 2018 (33%); Yang et al. 2021 (48-50%),41.06,Yes,39.08,34.29 to 46.73,,
+PD-L1 TPS >=50% (%),21.5 to 30,Yang et al. 2021 (21.5% all; 28.0% EGFR/ALK-negative),28.1,Yes,29.83,23.13 to 34.27,,
+Durable clinical benefit (%),25 to 39,Rizvi et al. 2018 (25.1-38.6% by TMB group),29.86,Yes,31.0,24.67 to 34.68,24.3,No
+"DCB, TMB >= median (%)",33.6 to 43.6,Rizvi et al. 2018: 38.6% (+/-5 points),36.88,Yes,42.52,28.68 to 44.97,,
+"DCB, TMB < median (%)",20.1 to 30.1,Rizvi et al. 2018: 25.1% (+/-5 points),22.87,Yes,20.63,16.03 to 29.47,,
+"Spearman rho, TMB vs PD-L1",-0.15 to 0.15,Hellmann et al. 2018 (rho = -0.087); Rizvi et al. 2018 (independent),0.05,Yes,0.1,-0.07 to 0.19,,
+irAE any grade (%),35 to 50,Ksienski et al. 2019 (42.8%); range assumption,43.33,Yes,46.0,38.66 to 49.00,64.3,No
+irAE grade >=2 (%),18 to 30,Ksienski et al. 2019 (20.7% interrupted ICI for irAE); range assumption,25.0,Yes,23.0,21.00 to 29.33,35.7,No
+irAE grade >=3 (%),8 to 18,"Mok et al. 2019 (grade >=3 treatment-related AE 18%, upper bound)",10.64,Yes,11.0,7.67 to 14.01,13.7,Yes
+"OR, DCB given irAE grade >=2",1.05 to 3,Kopanos et al. 2025; Zhao et al. 2026 (irAEs associate with benefit),1.32,Yes,0.97,0.74 to 2.33,,
+"OR, DCB given NLR >= median",0.3 to 0.95,Xie et al. 2019; Yang et al. 2021 (high NLR worse outcome),0.52,Yes,0.49,0.30 to 0.93,,
+"RR, irAE >=2 chemo-IO vs mono",1.4 to 2.6,Chen et al. 2025 (RR 2.02 for irAE with chemo-IO),1.51,Yes,1.9,1.02 to 2.13,,

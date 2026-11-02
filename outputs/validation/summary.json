@@ -1,0 +1,19 @@
+{
+  "n_reference": 50000,
+  "n_replicates": 200,
+  "targets_met_v2": 16,
+  "targets_total": 16,
+  "v1_targets_checked": 7,
+  "v1_targets_met": 3,
+  "tcga_age_ks_D_ref": 0.146,
+  "tcga_age_ks_p_ref": 2.129477129815559e-09,
+  "tcga_age_ks_D_n300_lusc": 0.124,
+  "tcga_age_ks_p_n300_lusc": 0.18195355436153268,
+  "n300_lusc": 88,
+  "intercepts": {
+    "dcb": -1.2531672998234749,
+    "tox2": -1.5933079110502941,
+    "sev": -0.4859737707108607,
+    "g1": -1.0908739407111647
+  }
+}

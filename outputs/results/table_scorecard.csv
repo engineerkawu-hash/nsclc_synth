@@ -1,0 +1,9 @@
+criterion,pass,evidence
+1 Predictive performance,No,DCB AUROC 0.670 (2.5th pct 0.650) vs baseline 0.663; irAE AUROC 0.505 (2.5th pct 0.421)
+2 Calibration,No,"ECE DCB 0.048, irAE 0.059; slope DCB 1.12, irAE -1.80"
+3 Robustness,No,"headroom retained: proposed 0.69, zero imputation 0.63"
+4 Stability,Yes,SD of DCB AUROC across replicates 0.014
+5 Uncertainty,Yes,"coverage DCB 0.911, irAE 0.913; ensemble uncertainty-for-error AUROC 0.571"
+6 Explainability,No,see explanation_stability.csv
+7 Generalisation,Yes,worst covariate-shift DCB AUROC drop 0.004 (scanner offset 2 SD); min coverage 0.879
+8 Reproducibility,Yes,analysis cohort md5 92c84eeace74706a522d6d0342213172; byte-identical on re-run (checked)

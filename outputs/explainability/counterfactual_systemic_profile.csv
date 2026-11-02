@@ -1,0 +1,5 @@
+systemic profile,task,mean_prediction,mean_change_vs_observed
+"favourable (NLR, CRP, LDH at 25th pct; albumin at 75th)",DCB,0.3059001863002777,0.0001761670137057081
+"favourable (NLR, CRP, LDH at 25th pct; albumin at 75th)",irAE>=2,0.21335537731647491,8.215298294089735e-06
+"unfavourable (NLR, CRP, LDH at 75th pct; albumin at 25th)",DCB,0.30438950657844543,-0.0013345200568437576
+"unfavourable (NLR, CRP, LDH at 75th pct; albumin at 25th)",irAE>=2,0.2135329395532608,0.00018578489834908396

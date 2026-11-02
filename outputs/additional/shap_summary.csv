@@ -1,0 +1,3 @@
+task,rank agreement SHAP vs IG (Spearman),top-5 overlap (Jaccard),SHAP top-5,SHAP share on null variables (%),IG share on null variables (%)
+DCB,0.965,1.0,P embedding; R embedding; S embedding; ecog; first_line,2.3,2.3
+irAE>=2,0.964,1.0,P embedding; R embedding; S embedding; first_line; ecog,8.5,7.8

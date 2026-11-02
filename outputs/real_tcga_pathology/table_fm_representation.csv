@@ -1,0 +1,7 @@
+Diagnostic,Value
+Principal components for 50% / 80% / 95% of variance,12 / 40 / 194 of 768
+Effective dimensionality (participation ratio),30.3
+"Mean cosine similarity, patches within the same slide",0.641
+"Mean cosine similarity, patches from different slides",0.124
+Slide identified from one patch by 1-nearest neighbour,98.9% (chance 3.3%)
+Mean cosine similarity between slide-level (mean-pooled) embeddings,0.195

@@ -1,0 +1,15 @@
+Framework variable,Stream,Available in TCGA-LUSC clinical,Note
+Age,clinical,Yes,age_at_index
+Sex,clinical,Yes,sex_at_birth
+Histology,clinical,Yes (constant),all LUSC by project definition
+Stage,clinical,Yes,pathological AJCC stage; mostly early stage
+Smoking history,clinical,No,exposure records not in this download; GDC exposure file
+ECOG performance status,clinical,No,not recorded
+Line / ICI regimen,clinical,No,pre-immunotherapy era; 4 patients any immunotherapy
+Autoimmune history,clinical,No,not recorded
+TMB,molecular,No (obtainable),derivable from GDC open-access masked somatic MAF
+EGFR / STK11 status,molecular,No (obtainable),derivable from GDC open-access masked somatic MAF
+"NLR, CRP, albumin, LDH",blood,No,no laboratory values in TCGA clinical data
+ctDNA,blood (liquid biopsy),No,no blood-based sequencing in TCGA
+Response (RECIST/iRECIST),outcome,No,TCGA predates routine ICI use
+irAE (CTCAE grade),outcome,No,TCGA predates routine ICI use

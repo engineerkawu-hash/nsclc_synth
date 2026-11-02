@@ -1,0 +1,71 @@
+{
+  "n": 300,
+  "seed": 42,
+  "population": {
+    "age_mean": 65.0,
+    "age_sd": 8.5,
+    "age_min": 35.0,
+    "age_max": 90.0,
+    "p_male": 0.62,
+    "p_luad": 0.7,
+    "p_never_luad": 0.2,
+    "p_never_lusc": 0.04,
+    "p_current_given_ever": 0.35,
+    "ecog_probs": [
+      0.38,
+      0.52,
+      0.1
+    ],
+    "stage_probs": [
+      0.12,
+      0.08,
+      0.42,
+      0.38
+    ],
+    "p_first_line": 0.6,
+    "p_chemo_io_first_line": 0.45,
+    "p_egfr_luad": 0.08,
+    "p_stk11_luad": 0.12,
+    "p_autoimmune_history": 0.06
+  },
+  "outcome": {
+    "dcb_prevalence": 0.3,
+    "tox2_prevalence": 0.25,
+    "tox3_given_tox2": 0.42,
+    "tox_any_extra": 0.2,
+    "shared_immune_weight_dcb": 0.55,
+    "shared_immune_weight_tox": 0.45,
+    "signal_scale": 1.0
+  },
+  "missingness": {
+    "p_pathology": 0.78,
+    "p_radiology": 0.7,
+    "p_systemic": 0.92,
+    "ecog2_penalty": 0.6,
+    "stage_ivb_penalty": 0.3,
+    "within_modality_missing": 0.05,
+    "force_at_least_one": true
+  },
+  "shift": {
+    "scanner_offset": 0.0,
+    "scanner_scale": 1.0,
+    "tmb_assay_scale": 1.0,
+    "pdl1_assay_shift": 0.0,
+    "nlr_shift": 0.0,
+    "age_shift": 0.0,
+    "p_male_override": null
+  },
+  "noise": {
+    "measurement_noise": 1.0,
+    "embedding_noise": 1.0,
+    "label_noise": 0.0,
+    "feature_corruption": 0.0
+  },
+  "embedding": {
+    "d_pathology": 512,
+    "d_radiology": 128,
+    "d_systemic": 64,
+    "signal_to_noise": 1.5
+  },
+  "loading_seed": 2026
+}

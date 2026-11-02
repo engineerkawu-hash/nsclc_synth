@@ -1,0 +1,5 @@
+band,patients (%),mean interval width,true probability inside 90% interval (%),mean |prediction - true probability|,AUROC within band,single-outcome conformal sets (%),mean number of modalities
+low,15.3,0.086,12.1,0.149,0.634,18.0,1.95
+moderate,69.3,0.142,22.5,0.17,0.651,26.0,2.37
+high,15.4,0.237,30.5,0.225,0.676,39.3,2.39
+all,100.0,0.148,22.2,0.175,0.67,26.8,2.31

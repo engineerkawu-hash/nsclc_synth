@@ -1,0 +1,25 @@
+cause,effect,direction,form,strength,justification,source,evidence_status
+histology=LUSC,male sex,+,probability,P(male|LUSC) = P(male)+0.12,Squamous histology is more common in men.,"Assumption; consistent with TCGA-LUSC (74% male, this study)",assumption-checked
+histology=LUSC,never-smoker,-,probability,P(never|LUSC)=0.04 vs 0.20 in LUAD,Squamous NSCLC is strongly smoking-associated.,Assumption,assumption
+U_burden,"ECOG, stage",+,latent ordinal,"loading 0.45 (ECOG), 0.50 (stage)",Higher tumour burden worsens performance status and stage.,Assumption,assumption
+U_imm,PD-L1 TPS,+,latent -> thresholded TPS,loading 0.60,PD-L1 reflects adaptive immune resistance in inflamed tumours.,Doroshow et al. (2021) [thesis ref.],literature
+"smoking, male, ECOG 0",PD-L1 TPS,+,latent shift,0.25 / 0.10 / 0.10 SD,"PD-L1 expression more frequent in smokers, men and good PS.","Yang et al. (2021), doi:10.7150/jca.63003",literature
+EGFR mutation,PD-L1 TPS,-,latent shift,-0.40 SD,PD-L1 expression less frequent in EGFR-mutant tumours.,"Yang et al. (2021), doi:10.7150/jca.63003",literature
+U_imm,"TIL density, stromal TIL %",+,log-linear,loading 0.65,TILs are the histological correlate of an inflamed tumour.,Saltz et al. (2018); AbdulJabbar et al. (2020) [thesis refs.],literature
+U_imm,pathology embedding z_P,+,linear loadings,SNR 1.5,Foundation-model embeddings encode morphology including immune infiltrate beyond PD-L1.,Chen et al. (2024); Rakaee et al. (2025) [thesis refs.],literature
+U_imm,radiomic texture (entropy),+,linear,loading 0.30,A radiomic signature tracks CD8 infiltration.,Sun et al. (2018) [thesis ref.],literature
+U_burden,"tumour volume, LDH, ctDNA VAF",+,log-linear,loading 0.80 / 0.50 / 0.60,Tumour burden markers co-vary.,Assumption,assumption
+smoking,TMB,+,log-linear,"+0.55 (former), +0.70 (current) log-units",Tobacco exposure raises mutation frequency more than tenfold.,"Govindan et al. (2012), doi:10.1016/j.cell.2012.08.024",literature
+EGFR mutation,TMB,-,log-linear,-0.60 log-units,EGFR-mutant tumours have lower TMB (median 3.77 vs 6.12 mut/Mb).,"Offin et al. (2019), doi:10.1158/1078-0432.CCR-18-1102",literature
+TMB,PD-L1,0,independence,no shared latent,TMB and PD-L1 are independent predictors.,"Rizvi et al. (2018), doi:10.1200/JCO.2017.75.3384; Hellmann et al. (2018) rho=-0.087",literature
+U_infl,"NLR, CRP (+), albumin (-)",+/-,log-linear,loading 0.55 / 0.60 / -0.45,Systemic inflammation markers co-vary.,Assumption,assumption
+"U_imm, TMB",durable clinical benefit,+,logistic,1.00 / 0.55 per SD,"Inflamed, high-TMB tumours benefit more.",Rizvi et al. (2018): DCB 38.6% vs 25.1% above vs below TMB median,literature
+NLR,durable clinical benefit,-,logistic,-0.45 per SD log NLR,High baseline NLR predicts worse ICI outcome.,Xie et al. (2019) doi:10.1080/07357907.2019.1639057; Yang et al. (2021) doi:10.1136/bmjopen-2021-049123,literature
+"U_burden, ECOG",durable clinical benefit,-,logistic,-0.35 / -0.35,Higher burden and poor PS reduce benefit.,Ksienski et al. (2019) doi:10.1016/j.cllc.2018.09.005 (ECOG>=2 worse OS),literature
+"STK11, EGFR",durable clinical benefit,-,logistic,-0.60 / -0.90,EGFR and STK11 variants associate with lack of benefit.,"Rizvi et al. (2018), doi:10.1200/JCO.2017.75.3384",literature
+chemo-immunotherapy,durable clinical benefit,+,logistic,+0.35,Adding chemotherapy improves response.,Pan et al. (2026) doi:10.21037/tcr-2026-1-0328,literature
+U_imm,irAE grade>=2,+,logistic (shared factor),0.45,irAEs associate with better ICI outcomes (marker of immune activation).,Kopanos et al. (2025) doi:10.3390/cancers17223675; Zhao et al. (2026) doi:10.1016/j.lungcan.2026.109422,literature
+"U_auto, autoimmune history",irAE grade>=2,+,logistic,0.90 / 1.00,Host autoimmune predisposition drives toxicity.,Les et al. (2023) [thesis ref.],literature
+chemo-immunotherapy,irAE grade>=2,+,logistic,+0.70 (OR ~2),Combination therapy roughly doubles irAE risk.,Chen et al. (2025) doi:10.1080/14737140.2025.2522980 (RR 2.02),literature
+"U_sev, chemo-IO, age",irAE grade>=3 | grade>=2,+,logistic,0.80 / 0.40 / 0.30,Severity is partly host- and regimen-dependent.,Assumption,assumption
+"ECOG 2, stage IVB",modality availability,-,MAR logistic,-0.6 / -0.3,Sicker patients less often have complete work-up.,Assumption,assumption

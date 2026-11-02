@@ -1,0 +1,3 @@
+Variable,TCGA-LUSC (real),Synthetic LUSC subgroup,SMD,KS D,KS p,Wasserstein (years),Independent check?
+Age (years),"mean 67.3 (SD 8.6), n=495","mean 65.1 (SD 8.5), n=14997",-0.253,0.146,2.13e-09,2.27,"Yes: age was set from trial data, not from TCGA"
+Male sex,74.0%,74.0%,-0.0,,,,No: the LUSC sex ratio was set with TCGA-LUSC in view

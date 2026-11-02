@@ -1,0 +1,10 @@
+Variable pair,Designed direction,Spearman rho,Reproduced
+pdl1_tps vs til_density,+,0.335,Yes
+pdl1_tps vs stromal_til_pct,+,0.336,Yes
+tumour_volume_cm3 vs ldh,+,0.589,Yes
+tumour_volume_cm3 vs ctdna_vaf,+,0.518,Yes
+nlr vs crp,+,0.519,Yes
+nlr vs albumin,-,-0.36,Yes
+pdl1_tps vs glcm_entropy,+,0.27,Yes
+tmb vs pdl1_tps,0,0.049,Yes
+tmb vs nlr,0,0.004,Yes

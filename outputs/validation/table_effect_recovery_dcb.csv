@@ -1,0 +1,10 @@
+Predictor (standardised),Designed sign,Odds ratio per SD,95% CI,Sign recovered
+pdl1_tps,+,1.399,1.35 to 1.45,Yes
+log_til,+,1.555,1.49 to 1.62,Yes
+log_tmb,+,1.571,1.51 to 1.64,Yes
+log_nlr,-,0.701,0.67 to 0.73,Yes
+log_vol,-,0.755,0.72 to 0.79,Yes
+ecog,-,0.82,0.79 to 0.85,Yes
+egfr_mut,-,0.863,0.82 to 0.91,Yes
+stk11_mut,-,0.847,0.81 to 0.88,Yes
+chemo_io,+,1.158,1.12 to 1.20,Yes

@@ -1,0 +1,6 @@
+Diagnostic,Value
+Slides analysed,30
+"Spearman rho, embedding distance vs physical distance, median (range)",0.231 (0.038 to 0.471)
+Slides with rho > 0,30 of 30
+"Cosine similarity, nearest 5% of patch pairs, median",0.760
+"Cosine similarity, farthest 5% of patch pairs, median",0.592

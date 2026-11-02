@@ -1,0 +1,4 @@
+"Model (penalised Cox, 5x5-fold CV)",C-index mean,C-index SD,Folds
+Clinical vector (as before),0.588,0.042,25
+Clinical + smoking,0.6,0.042,25
+Clinical + smoking + molecular,0.6,0.044,25

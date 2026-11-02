@@ -1,0 +1,10 @@
+Item,Value
+Foundation model,"Phikon (ViT-B/16, iBOT, Filiot et al. 2023), owkin/phikon"
+Hardware,CUDA (Google Colab)
+Diagnostic slides embedded / attempted,30 / 30
+Patch size and magnification,224 px at 0.5 um/px (about 20x)
+"Tissue patches available per slide, median (range)","10,214 (739-27,554)"
+Patches embedded,"29,739 (cap 1000 per slide)"
+Embedding dimension,768
+"Slide file size, median (range), GB",0.45 (0.02-1.48)
+"Time per slide incl. download, median (range), s",101 (8-287)

@@ -1,0 +1,4 @@
+"Model (penalised Cox, 5x5-fold CV)",C-index mean,C-index SD,Folds
+Stage only,0.555,0.037,25
+Age + sex + stage,0.565,0.042,25
+Full processed clinical vector,0.581,0.042,25

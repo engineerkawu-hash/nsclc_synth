@@ -1,0 +1,21 @@
+comparison,task,mean AUROC difference,95% range across replicates,replicates where proposed better (%)
+Proposed minus Intermediate fusion (zero fill),Durable clinical benefit,-0.0104,-0.028 to 0.012,15.0
+Proposed minus Intermediate fusion (zero fill),irAE grade >=2,-0.0148,-0.142 to 0.102,50.0
+Proposed minus Early fusion,Durable clinical benefit,-0.0075,-0.029 to 0.019,30.0
+Proposed minus Early fusion,irAE grade >=2,0.0017,-0.064 to 0.062,60.0
+Proposed minus Late fusion,Durable clinical benefit,-0.0133,-0.029 to 0.006,15.0
+Proposed minus Late fusion,irAE grade >=2,-0.0049,-0.146 to 0.089,45.0
+Proposed minus Attention fusion (not missing-aware),Durable clinical benefit,-0.0019,-0.022 to 0.016,40.0
+Proposed minus Attention fusion (not missing-aware),irAE grade >=2,-0.0125,-0.142 to 0.105,45.0
+Proposed minus LR: PD-L1 only,Durable clinical benefit,0.1066,0.054 to 0.266,100.0
+Proposed minus LR: PD-L1 only,irAE grade >=2,-0.0004,-0.093 to 0.058,55.0
+Proposed minus LR: PD-L1 + TMB,Durable clinical benefit,0.0706,0.013 to 0.299,100.0
+Proposed minus LR: PD-L1 + TMB,irAE grade >=2,0.0084,-0.079 to 0.071,65.0
+Proposed minus LR: clinical only,Durable clinical benefit,0.149,0.087 to 0.245,100.0
+Proposed minus LR: clinical only,irAE grade >=2,-0.0468,-0.178 to 0.091,20.0
+Proposed minus LR: all interpretable variables,Durable clinical benefit,0.007,-0.027 to 0.036,60.0
+Proposed minus LR: all interpretable variables,irAE grade >=2,-0.0184,-0.134 to 0.132,30.0
+Proposed minus Deep ensemble (5),Durable clinical benefit,-0.0043,-0.020 to 0.008,30.0
+Proposed minus Deep ensemble (5),irAE grade >=2,-0.0189,-0.147 to 0.096,30.0
+Proposed minus MC dropout (30),Durable clinical benefit,-0.0033,-0.007 to -0.000,5.0
+Proposed minus MC dropout (30),irAE grade >=2,-0.002,-0.006 to 0.004,20.0

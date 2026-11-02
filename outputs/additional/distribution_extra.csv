@@ -1,0 +1,3 @@
+Comparison,Statistic
+"PD-L1 category distribution vs X. Yang et al. (2021), all-comers",total variation 0.071; Wasserstein (category units) 0.137
+Stage (I–IV) vs real TCGA-LUSC,"SMD 3.52; KS D 0.826; Wasserstein 2.13 stages — expected, because TCGA-LUSC is predominantly early-stage and the synthetic population is advanced by design"
